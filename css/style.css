@@ -6674,15 +6674,14 @@ th.hide-for-touch {
     display: table-cell !important; } }
 /* line 1, ../scss/foundation/custom.scss */
 .overlay {
-  background: rgba(0, 0, 0, 0.4);
-  height: 100%; }
+  background: rgba(0, 0, 0, 0.4); }
 
-/* line 5, ../scss/foundation/custom.scss */
+/* line 4, ../scss/foundation/custom.scss */
 input[type="submit"] {
   width: 100%;
   text-transform: uppercase;
   letter-spacing: 2px; }
 
-/* line 10, ../scss/foundation/custom.scss */
+/* line 9, ../scss/foundation/custom.scss */
 .generate {
   padding-right: 1px !important; }
