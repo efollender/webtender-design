@@ -6676,3 +6676,7 @@ th.hide-for-touch {
 .overlay {
   background: rgba(0, 0, 0, 0.4);
   height: 100%; }
+
+/* line 5, ../scss/foundation/custom.scss */
+input[type="submit"] {
+  width: 100%; }
