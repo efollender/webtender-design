@@ -5403,7 +5403,7 @@ meta.foundation-mq-topbar {
 /* line 109, ../scss/foundation/components/_top-bar.scss */
 .contain-to-grid {
   width: 100%;
-  background: #e25953; }
+  background: rgba(226, 89, 83, 0.5); }
   /* line 113, ../scss/foundation/components/_top-bar.scss */
   .contain-to-grid .top-bar {
     margin-bottom: 0; }
@@ -5437,7 +5437,7 @@ meta.foundation-mq-topbar {
   height: 45px;
   line-height: 45px;
   position: relative;
-  background: #e25953;
+  background: rgba(226, 89, 83, 0.5);
   margin-bottom: 0; }
   /* line 152, ../scss/foundation/components/_top-bar.scss */
   .top-bar ul {
@@ -5532,7 +5532,7 @@ meta.foundation-mq-topbar {
     background: transparent; }
     /* line 258, ../scss/foundation/components/_top-bar.scss */
     .top-bar.expanded .title-area {
-      background: #e25953; }
+      background: rgba(226, 89, 83, 0.5); }
     /* line 261, ../scss/foundation/components/_top-bar.scss */
     .top-bar.expanded .toggle-topbar a {
       color: #888888; }
@@ -5557,7 +5557,7 @@ meta.foundation-mq-topbar {
   /* line 292, ../scss/foundation/components/_top-bar.scss */
   .top-bar-section .divider,
   .top-bar-section [role="separator"] {
-    border-top: solid 1px #841b16;
+    border-top: solid 1px rgba(132, 27, 22, 0.5);
     clear: both;
     height: 1px;
     width: 100%; }
@@ -5772,7 +5772,7 @@ meta.foundation-mq-topbar {
 @media only screen and (min-width: 40.063em) {
   /* line 435, ../scss/foundation/components/_top-bar.scss */
   .top-bar {
-    background: #e25953;
+    background: rgba(226, 89, 83, 0.5);
     overflow: visible; }
     /* line 176, ../scss/foundation/components/_global.scss */
     .top-bar:before, .top-bar:after {
@@ -5799,7 +5799,7 @@ meta.foundation-mq-topbar {
       top: 7px; }
     /* line 453, ../scss/foundation/components/_top-bar.scss */
     .top-bar.expanded {
-      background: #e25953; }
+      background: rgba(226, 89, 83, 0.5); }
 
   /* line 456, ../scss/foundation/components/_top-bar.scss */
   .contain-to-grid .top-bar {
@@ -5830,7 +5830,7 @@ meta.foundation-mq-topbar {
     .top-bar-section li:not(.has-form) a:not(.button) {
       padding: 0 15px;
       line-height: 45px;
-      background: #e25953; }
+      background: rgba(226, 89, 83, 0.5); }
       /* line 489, ../scss/foundation/components/_top-bar.scss */
       .top-bar-section li:not(.has-form) a:not(.button):hover {
         background: #272727; }
@@ -5918,13 +5918,13 @@ meta.foundation-mq-topbar {
     .top-bar-section > ul > .divider, .top-bar-section > ul > [role="separator"] {
       border-bottom: none;
       border-top: none;
-      border-right: solid 1px #e66f69;
+      border-right: solid 1px rgba(230, 111, 105, 0.5);
       clear: none;
       height: 45px;
       width: 0; }
     /* line 592, ../scss/foundation/components/_top-bar.scss */
     .top-bar-section .has-form {
-      background: #e25953;
+      background: rgba(226, 89, 83, 0.5);
       padding: 0 15px;
       height: 45px; }
     /* line 600, ../scss/foundation/components/_top-bar.scss */
