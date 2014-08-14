@@ -20,10 +20,10 @@ module Bartender
         )])
   
       @db.exec(%q[
-        CREATE TABLE IF NOT EXISTS drinks(
+        CREATE TABLE IF NOT EXISTS recipes(
           id serial NOT NULL PRIMARY KEY,
           drink_name varchar(30) NOT NULL UNIQUE,
-          ingredient_with_amount text[][], 
+          ingredient text[][], 
           directions text
         )])
         #ingredient with amount is a 3 by n two dimensional array 
@@ -32,6 +32,30 @@ module Bartender
         #[2][n] corresponds to the units associated with the ingredient amount.
   
     end
+
+    def get_recipes_by_id(recipe_id)
+      @db.exec_params(%q[
+        SELECT * FROM recipes
+        WHERE id = $1;], [recipe_id])
+    end
+
+    def get_ingredient_name_by_id(ingredient_id)
+      @db.exec_params(%q[
+        SELECT name FROM ingredients
+        WHERE id = $1;], [ingredient_id])
+    end
+
+    def build_recipe(name, ingredients, directions, imageurl)
+      #TODO
+    end
+
+    def persist_recipe(recipe)
+      @db.exec_params(%q[
+        INSERT INTO recipes (name, ingredients, directions, imageurl)
+        VALUES ($1, $2, $3, $4);
+        ], [recipe.name, recipe.format_for_db(ingredients), recipe.directions, recipe.imageurl])
+    end
+
     
     # Breed Methods
 
