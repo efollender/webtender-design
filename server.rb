@@ -12,11 +12,15 @@ get '/' do
 end
 
 get '/recipe/:id' do
-  #@id = params['id']
-  #@recipe = Bartender.dbi.get_recipe(@id)
-  erb :recipe
+  if params[:id].to_i != 0
+    #@id = params['id']
+    #@recipe = Bartender.dbi.get_recipe(@id)
+    erb :recipe
+  else
+    erb :add_recipe
+  end
 end
 
-get '/search' do
-
+get '/search/*id' do
+  @result = Bartender.dbi.get_search_results(params['id'])
 end
