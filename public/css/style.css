@@ -6672,16 +6672,46 @@ th.hide-for-touch {
   /* line 404, ../scss/foundation/components/_visibility.scss */
   th.show-for-print {
     display: table-cell !important; } }
-/* line 1, ../scss/foundation/custom.scss */
-.overlay {
-  background: rgba(0, 0, 0, 0.4); }
-
+/****************
+BODY
+***************/
 /* line 4, ../scss/foundation/custom.scss */
+.overlay {
+  background: rgba(0, 0, 0, 0.4);
+  height: 100%; }
+
+/* line 8, ../scss/foundation/custom.scss */
 input[type="submit"] {
   width: 100%;
   text-transform: uppercase;
   letter-spacing: 2px; }
 
-/* line 9, ../scss/foundation/custom.scss */
+/* line 13, ../scss/foundation/custom.scss */
+img {
+  display: inline-block; }
+
+/* line 16, ../scss/foundation/custom.scss */
+.alignleft {
+  float: left; }
+
+/* line 19, ../scss/foundation/custom.scss */
+.alignright {
+  float: right; }
+
+/* line 22, ../scss/foundation/custom.scss */
 .generate {
   padding-right: 1px !important; }
+
+/*****************
+RECIPE VIEW
+****************/
+/* line 28, ../scss/foundation/custom.scss */
+#ingredients ul {
+  color: white;
+  list-style-type: none;
+  border-top: 1px solid white;
+  padding-top: 1em;
+  margin-top: 1em;
+  font-size: 1.8em;
+  font-weight: lighter;
+  display: inline-block; }
