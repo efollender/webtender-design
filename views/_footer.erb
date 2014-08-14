@@ -1,9 +1,10 @@
       </div>
-      <script type="text/javascript" src="./js/jquery.min.js"></script>
-      <script type="text/javascript" src="./js/foundation.min.js"></script>
+      <script type="text/javascript" src="/js/jquery.min.js"></script>
+      <script type="text/javascript" src="/js/foundation.min.js"></script>
       <script type="text/javascript">$(document).foundation();</script>
-      <script type="text/javascript" src="./zmultiselect/zurb5-multiselect.js"></script>
-      <script src="./ItemSlider/js/jquery.catslider.js"></script>
+      <script type="text/javascript" src="/zmultiselect/zurb5-multiselect.js"></script>
+      <script src="/ItemSlider/js/jquery.catslider.js"></script>
+     
       <script>
         $(function() {
 
@@ -30,6 +31,20 @@
             filterResultText: "Showing",
             selectedText: ['Selected','of']
         });
-      </script>
-    </body>
+      var newLi = $("#addRecipe ul li").clone();
+      $("#addIngredient").click(function(e){
+        var appendLi = newLi.clone();
+        $("#addIngredient").before(appendLi);
+        e.preventDefault();
+      });
+      var ingredients = [
+        <% @ingredients.each do |x| %>
+          {
+            name: <%= x.name %>
+          },
+        <% end %>
+      ]
+    </script>
+
+  </body>
 </html>

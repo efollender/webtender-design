@@ -1,0 +1,37 @@
+<div class="row">
+  <h3>ADD A NEW RECIPE</h3>
+  <hr/>
+  <form id="addRecipe" class="form-container">
+    <input name="recipe_title" type="text" placeholder="Enter recipe title"/>
+    <ul class="form-group">
+      <h5>INGREDIENTS</h5>
+      <hr/>
+      <!-- BEGIN REPEATER -->
+        <!--ING AMOUNT-->
+        <li>
+          <div class="row collapse">
+            <div class="large-1 columns">
+              <input type="text" name="amount" placeholder="amount" value="" />
+            </div>
+            <div class="large-1 columns">
+              <select name="units" placeholder="units">
+                <option value="oz">oz</option>
+                <option value="tsp">tsp</option>
+                <option value="tbs">tbs</option>
+                <option value="cup">cup</option>
+                <option value="pinch">pinch</option>
+                <!-- OPTIONS -->
+              </select>
+            </div>
+            <!-- ING AUTOCOMPLETE TITLE -->
+            <div class="large-10 columns">
+              <input type="text" name="ingredient" placeholder="ingredient name"/>
+            </div>
+          <!-- END REPEATER -->
+          </div>
+        </li>
+        <button class="r-btnAdd" id="addIngredient" type="button">Add Ingredient</button>
+      </ul>
+    <input type="submit" class="button" value="Submit Recipe"/>
+  </form>
+</div>
