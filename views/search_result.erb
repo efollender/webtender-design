@@ -1,0 +1,18 @@
+<div class="row">
+<h2 class="upper">search results</h2>
+  <% @results.each do |recipe| %>
+    <div class="large-4 columns">
+      <%= recipe.name %>
+    </div>
+
+    <div class="large-4 columns">
+    <%= recipe.ingredients.length %>
+    </div>
+
+    <div class="large-4 columns">
+    <% if recipe.imageurl %>
+      <%= recipe.imageurl %>
+    <% end %>
+    </div>
+  <% end %>
+</div>

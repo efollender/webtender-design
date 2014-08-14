@@ -6691,21 +6691,29 @@ img {
   display: inline-block; }
 
 /* line 16, ../scss/foundation/custom.scss */
+ul {
+  list-style-type: none; }
+
+/* line 19, ../scss/foundation/custom.scss */
 .alignleft {
   float: left; }
 
-/* line 19, ../scss/foundation/custom.scss */
+/* line 22, ../scss/foundation/custom.scss */
 .alignright {
   float: right; }
 
-/* line 22, ../scss/foundation/custom.scss */
+/* line 25, ../scss/foundation/custom.scss */
 .generate {
   padding-right: 1px !important; }
+
+/* line 28, ../scss/foundation/custom.scss */
+.upper {
+  text-transform: uppercase; }
 
 /*****************
 RECIPE VIEW
 ****************/
-/* line 28, ../scss/foundation/custom.scss */
+/* line 34, ../scss/foundation/custom.scss */
 #ingredients ul {
   color: white;
   list-style-type: none;
@@ -6715,3 +6723,7 @@ RECIPE VIEW
   font-size: 1.8em;
   font-weight: lighter;
   display: inline-block; }
+
+/**************
+add RECIPE VIEW
+*************/
