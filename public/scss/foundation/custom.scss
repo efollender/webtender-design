@@ -13,6 +13,9 @@ input[type="submit"] {
 img {
   display: inline-block;
 }
+ul {
+  list-style-type: none;
+}
 .alignleft {
   float: left;
 }
@@ -21,6 +24,9 @@ img {
 }
 .generate {
   padding-right: 1px!important;
+}
+.upper {
+  text-transform: uppercase;
 }
 /*****************
 RECIPE VIEW
@@ -35,3 +41,6 @@ RECIPE VIEW
   font-weight: lighter;
   display: inline-block;
 }
+/**************
+add RECIPE VIEW
+*************/
