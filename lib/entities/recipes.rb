@@ -18,6 +18,13 @@ module Bartender
 
     def format_for_db(ingredients) #convert ingredients to be better used by the database
       #TODO: Should return a 3 by n array of ingredients like ingredients[3][n] if that makes sense
+      ingredients_db = [][]
+      ingredients.each_with_index do |ingredient, index|
+        ingredients_db[index][0] = Bartender.dbi.get_ingredient_id_by_name(ingredient[name])
+        ingredients_db[index][1] = ingredient[amount]
+        ingredients_db[index][2] = ingredient[unit]
+      end
+      ingredients_db
     end
   end
 

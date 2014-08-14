@@ -2,6 +2,7 @@
 require 'sinatra'
 require "sinatra/json"
 require 'rack-flash'
+require_relative 'lib/bartender_app.rb'
 
 
 set :bind, '0.0.0.0' # Vagrant fix
