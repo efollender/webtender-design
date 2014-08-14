@@ -10,3 +10,13 @@ set :port, '4567'
 get '/' do
   erb :index
 end
+
+get '/recipe/:id' do
+  #@id = params['id']
+  #@recipe = Bartender.dbi.get_recipe(@id)
+  erb :recipe
+end
+
+get '/search' do
+
+end
