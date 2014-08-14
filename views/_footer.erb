@@ -1,0 +1,34 @@
+      <script type="text/javascript" src="./js/jquery.min.js"></script>
+      <script type="text/javascript" src="./js/foundation.min.js"></script>
+      <script type="text/javascript">$(document).foundation();</script>
+      <script type="text/javascript" src="./zmultiselect/zurb5-multiselect.js"></script>
+      <script src="./ItemSlider/js/jquery.catslider.js"></script>
+      <script>
+        $(function() {
+
+          $( '#mi-slider' ).catslider();
+
+        });
+      </script>
+      <script type="text/javascript">
+      $("#ingredients").zmultiselect({
+            live: "#live",
+            placeholder: "Select your ingredients",
+            filter: true,
+            filterPlaceholder: 'Search by name',
+            filterResult: true,
+            filterResultText: "Showing",
+            selectedText: ['Selected','of']
+        });
+      $("#common").zmultiselect({
+            live: "#submit",
+            placeholder: "Common ingredients",
+            filter: true,
+            filterPlaceholder: 'Search by name',
+            filterResult: true,
+            filterResultText: "Showing",
+            selectedText: ['Selected','of']
+        });
+      </script>
+    </body>
+</html>
