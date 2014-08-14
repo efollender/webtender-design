@@ -37,13 +37,6 @@
         $("#addIngredient").before(appendLi);
         e.preventDefault();
       });
-      var ingredients = [
-        <% @ingredients.each do |x| %>
-          {
-            name: <%= x.name %>
-          },
-        <% end %>
-      ]
     </script>
 
   </body>

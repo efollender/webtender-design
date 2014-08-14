@@ -25,3 +25,13 @@ end
 get '/search/*id' do
   @result = Bartender.dbi.get_search_results(params['id'])
 end
+
+get '/brianteststuff' do
+  erb :brianteststuff
+end
+
+post '/brianteststuff' do
+  recipe = Bartender::Recipe.new("Vodka Cranberry",[[name:"vodka",amount:"2",unit:"oz"],[name:"cranberry juice",amount:"2",unit:"oz"]] ,"Mix Vodka and Cranberry straight or over ice.","http://leesliquorlv.com/site/wp-content/uploads/2012/09/Vodka-Cran.jpg")
+  Bartender.dbi.persist_recipe(recipe)
+  erb :brianteststuff
+end
