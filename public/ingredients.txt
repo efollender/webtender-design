@@ -1,1 +1,781 @@
-{:name=>"7-Up", :type=>"Mixer"}{:name=>"Acerola", :type=>"Fruit / Juice"}{:name=>"Allspice", :type=>"Herb / Spice"}{:name=>"Almond syrup", :type=>"Flavoring / Syrup"}{:name=>"Almond", :type=>"Garnish"}{:name=>"Angelica root", :type=>"Herb / Spice"}{:name=>"Anise", :type=>"Herb / Spice"}{:name=>"Apple juice", :type=>"Fruit / Juice"}{:name=>"Apple-cranberry juice", :type=>"Fruit / Juice"}{:name=>"Apple", :type=>"Fruit / Juice"}{:name=>"Apricot nectar", :type=>"Fruit / Juice"}{:name=>"Apricot", :type=>"Fruit / Juice"}{:name=>"Asafoetida", :type=>"Flavoring / Syrup"}{:name=>"Avocado", :type=>"Other / Unknown"}{:name=>"Banana syrup", :type=>"Flavoring / Syrup"}{:name=>"Banana", :type=>"Fruit / Juice"}{:name=>"Battery", :type=>"Mixer"}{:name=>"Beef bouillon", :type=>"Flavoring / Syrup"}{:name=>"Berries", :type=>"Fruit / Juice"}{:name=>"Bitter lemon", :type=>"Mixer"}{:name=>"Black pepper", :type=>"Herb / Spice"}{:name=>"Blackberries", :type=>"Fruit / Juice"}{:name=>"Blackcurrant squash", :type=>"Fruit / Juice"}{:name=>"Bloody mary mix", :type=>"Mixer"}{:name=>"Blueberries", :type=>"Fruit / Juice"}{:name=>"Bread", :type=>"Other / Unknown"}{:name=>"Brown sugar", :type=>"Flavoring / Syrup"}{:name=>"Butter", :type=>"Other / Unknown"}{:name=>"Candy", :type=>"Other / Unknown"}{:name=>"Cantaloupe", :type=>"Fruit / Juice"}{:name=>"Cappuccino", :type=>"Mixer"}{:name=>"Caramel coloring", :type=>"Flavoring / Syrup"}{:name=>"Caramel", :type=>"Flavoring / Syrup"}{:name=>"Carbonated soft drink", :type=>"Mixer"}{:name=>"Carbonated water", :type=>"Mixer"}{:name=>"Cardamom", :type=>"Herb / Spice"}{:name=>"Carrot", :type=>"Garnish"}{:name=>"Cayenne pepper", :type=>"Herb / Spice"}{:name=>"Celery salt", :type=>"Herb / Spice"}{:name=>"Celery", :type=>"Garnish"}{:name=>"Cherries", :type=>"Garnish"}{:name=>"Cherry Cola", :type=>"Mixer"}{:name=>"Cherry juice", :type=>"Fruit / Juice"}{:name=>"Cherry syrup", :type=>"Flavoring / Syrup"}{:name=>"Cherry", :type=>"Garnish"}{:name=>"Chili sauce", :type=>"Flavoring / Syrup"}{:name=>"Chocolate ice-cream", :type=>"Other / Unknown"}{:name=>"Chocolate milk", :type=>"Mixer"}{:name=>"Chocolate syrup", :type=>"Flavoring / Syrup"}{:name=>"Chocolate", :type=>"Flavoring / Syrup"}{:name=>"Cinnamon", :type=>"Herb / Spice"}{:name=>"Cinzano Bitters", :type=>"Flavoring / Syrup"}{:name=>"Clamato juice", :type=>"Fruit / Juice"}{:name=>"Cloves", :type=>"Herb / Spice"}{:name=>"Clove", :type=>"Herb / Spice"}{:name=>"Club soda", :type=>"Mixer"}{:name=>"Coca-Cola", :type=>"Mixer"}{:name=>"Cocktail onion", :type=>"Garnish"}{:name=>"Cocoa powder", :type=>"Flavoring / Syrup"}{:name=>"Coconut cream", :type=>"Flavoring / Syrup"}{:name=>"Coconut milk", :type=>"Mixer"}{:name=>"Coconut syrup", :type=>"Flavoring / Syrup"}{:name=>"Coconut", :type=>"Garnish"}{:name=>"Coffeemate", :type=>"Other / Unknown"}{:name=>"Coffee", :type=>"Mixer"}{:name=>"Cola", :type=>"Mixer"}{:name=>"Collins mix", :type=>"Mixer"}{:name=>"Condensed milk", :type=>"Mixer"}{:name=>"Coriander", :type=>"Herb / Spice"}{:name=>"Corn syrup", :type=>"Other / Unknown"}{:name=>"Cornstarch", :type=>"Other / Unknown"}{:name=>"Cranberries", :type=>"Fruit / Juice"}{:name=>"Cranberry juice", :type=>"Fruit / Juice"}{:name=>"Cream of coconut", :type=>"Mixer"}{:name=>"Cream soda", :type=>"Mixer"}{:name=>"Cream", :type=>"Mixer"}{:name=>"Crystal light", :type=>"Mixer"}{:name=>"Cucumber", :type=>"Garnish"}{:name=>"Cumin seed", :type=>"Herb / Spice"}{:name=>"Daiquiri mix", :type=>"Mixer"}{:name=>"Dr. Pepper", :type=>"Mixer"}{:name=>"Egg white", :type=>"Other / Unknown"}{:name=>"Egg yolk", :type=>"Other / Unknown"}{:name=>"Egg", :type=>"Other / Unknown"}{:name=>"Espresso", :type=>"Mixer"}{:name=>"Fanta", :type=>"Mixer"}{:name=>"Fennel seeds", :type=>"Herb / Spice"}{:name=>"Figs", :type=>"Fruit / Juice"}{:name=>"Food coloring", :type=>"Other / Unknown"}{:name=>"Fresca", :type=>"Mixer"}{:name=>"Fruit cocktail", :type=>"Fruit / Juice"}{:name=>"Fruit juice", :type=>"Fruit / Juice"}{:name=>"Fruit punch", :type=>"Mixer"}{:name=>"Fruit syrup", :type=>"Flavoring / Syrup"}{:name=>"Fruit", :type=>"Fruit / Juice"}{:name=>"Gatorade", :type=>"Mixer"}{:name=>"Gelatin", :type=>"Other / Unknown"}{:name=>"Ginger ale", :type=>"Mixer"}{:name=>"Ginger", :type=>"Herb / Spice"}{:name=>"Glycerine", :type=>"Other / Unknown"}{:name=>"Grape juice", :type=>"Fruit / Juice"}{:name=>"Grape soda", :type=>"Mixer"}{:name=>"Grapefruit juice", :type=>"Fruit / Juice"}{:name=>"Grapefruit-lemon soda", :type=>"Mixer"}{:name=>"Grapefruit", :type=>"Fruit / Juice"}{:name=>"Grapes", :type=>"Fruit / Juice"}{:name=>"Grenadine", :type=>"Flavoring / Syrup"}{:name=>"Guava juice", :type=>"Fruit / Juice"}{:name=>"Guava syrup", :type=>"Flavoring / Syrup"}{:name=>"Half-and-half", :type=>"Mixer"}{:name=>"Hawaiian Punch", :type=>"Mixer"}{:name=>"Heavy cream", :type=>"Mixer"}{:name=>"Honey", :type=>"Flavoring / Syrup"}{:name=>"Horseradish", :type=>"Garnish"}{:name=>"Hot chocolate", :type=>"Mixer"}{:name=>"Hot red pepper flakes", :type=>"Herb / Spice"}{:name=>"Ice-cream", :type=>"Other / Unknown"}{:name=>"Iced tea", :type=>"Mixer"}{:name=>"Ice", :type=>"Other / Unknown"}{:name=>"Jalapeno", :type=>"Garnish"}{:name=>"Jello", :type=>"Other / Unknown"}{:name=>"Jolt Cola", :type=>"Mixer"}{:name=>"Kiwi", :type=>"Fruit / Juice"}{:name=>"Kool-Aid", :type=>"Mixer"}{:name=>"Kumquat", :type=>"Fruit / Juice"}{:name=>"Lemon juice", :type=>"Fruit / Juice"}{:name=>"Lemon peel", :type=>"Garnish"}{:name=>"Lemon soda", :type=>"Mixer"}{:name=>"Lemon-lime mix", :type=>"Mixer"}{:name=>"Lemon-lime soda", :type=>"Mixer"}{:name=>"Lemonade", :type=>"Mixer"}{:name=>"Lemon", :type=>"Fruit / Juice"}{:name=>"Licorice root", :type=>"Herb / Spice"}{:name=>"Light cream", :type=>"Mixer"}{:name=>"Lime juice cordial", :type=>"Flavoring / Syrup"}{:name=>"Lime juice", :type=>"Fruit / Juice"}{:name=>"Lime peel", :type=>"Garnish"}{:name=>"Limeade", :type=>"Mixer"}{:name=>"Lime", :type=>"Fruit / Juice"}{:name=>"Lingonberry jam", :type=>"Other / Unknown"}{:name=>"Mandarin", :type=>"Fruit / Juice"}{:name=>"Mango juice", :type=>"Fruit / Juice"}{:name=>"Mango syrup", :type=>"Flavoring / Syrup"}{:name=>"Mango", :type=>"Fruit / Juice"}{:name=>"Maple syrup", :type=>"Flavoring / Syrup"}{:name=>"Maraschino cherry juice", :type=>"Fruit / Juice"}{:name=>"Maraschino cherry", :type=>"Garnish"}{:name=>"Margarita mix", :type=>"Mixer"}{:name=>"Marjoram leaves", :type=>"Herb / Spice"}{:name=>"Marshmallows", :type=>"Garnish"}{:name=>"Mello Yello", :type=>"Mixer"}{:name=>"Melon", :type=>"Fruit / Juice"}{:name=>"Milk", :type=>"Mixer"}{:name=>"Mint syrup", :type=>"Flavoring / Syrup"}{:name=>"Mint", :type=>"Garnish"}{:name=>"Molasses", :type=>"Other / Unknown"}{:name=>"Monin bitter", :type=>"Flavoring / Syrup"}{:name=>"Mountain Dew", :type=>"Mixer"}{:name=>"Nutmeg", :type=>"Herb / Spice"}{:name=>"Nuts", :type=>"Garnish"}{:name=>"Olive juice", :type=>"Other / Unknown"}{:name=>"Olive", :type=>"Garnish"}{:name=>"Orange juice", :type=>"Fruit / Juice"}{:name=>"Orange peel", :type=>"Garnish"}{:name=>"Orange soda", :type=>"Mixer"}{:name=>"Orange spiral", :type=>"Garnish"}{:name=>"Orange-flower water", :type=>"Flavoring / Syrup"}{:name=>"Orange", :type=>"Fruit / Juice"}{:name=>"Oreo cookie", :type=>"Other / Unknown"}{:name=>"Orgeat syrup", :type=>"Flavoring / Syrup"}{:name=>"Papaya juice", :type=>"Fruit / Juice"}{:name=>"Papaya", :type=>"Fruit / Juice"}{:name=>"Passion fruit juice", :type=>"Fruit / Juice"}{:name=>"Passion fruit syrup", :type=>"Flavoring / Syrup"}{:name=>"Peach juice", :type=>"Fruit / Juice"}{:name=>"Peach nectar", :type=>"Fruit / Juice"}{:name=>"Peach", :type=>"Fruit / Juice"}{:name=>"Pear juice", :type=>"Flavoring / Syrup"}{:name=>"Pear soft drink", :type=>"Mixer"}{:name=>"Pear", :type=>"Fruit / Juice"}{:name=>"Pepper sauce", :type=>"Flavoring / Syrup"}{:name=>"Pepsi Cola", :type=>"Mixer"}{:name=>"Pickled pepper", :type=>"Herb / Spice"}{:name=>"Pina colada mix", :type=>"Mixer"}{:name=>"Pineapple juice", :type=>"Fruit / Juice"}{:name=>"Pineapple soda", :type=>"Mixer"}{:name=>"Pineapple-coconut juice", :type=>"Fruit / Juice"}{:name=>"Pineapple-orange juice", :type=>"Fruit / Juice"}{:name=>"Pineapple-orange-banana juice", :type=>"Fruit / Juice"}{:name=>"Pineapple", :type=>"Fruit / Juice"}{:name=>"Pink lemonade", :type=>"Mixer"}{:name=>"Plums", :type=>"Fruit / Juice"}{:name=>"Powdered sugar", :type=>"Flavoring / Syrup"}{:name=>"Prune juice", :type=>"Fruit / Juice"}{:name=>"Pumpkin", :type=>"Fruit / Juice"}{:name=>"Raisins", :type=>"Garnish"}{:name=>"Raspberries", :type=>"Fruit / Juice"}{:name=>"Raspberry jam", :type=>"Other / Unknown"}{:name=>"Raspberry juice", :type=>"Fruit / Juice"}{:name=>"Raspberry syrup", :type=>"Flavoring / Syrup"}{:name=>"Red Bull", :type=>"Mixer"}{:name=>"Rhubarb", :type=>"Fruit / Juice"}{:name=>"Root beer", :type=>"Mixer"}{:name=>"Rose's sweetened lime juice", :type=>"Flavoring / Syrup"}{:name=>"Rosewater", :type=>"Flavoring / Syrup"}{:name=>"Salt", :type=>"Herb / Spice"}{:name=>"Sarsaparilla", :type=>"Mixer"}{:name=>"Schweppes Lemon", :type=>"Mixer"}{:name=>"Schweppes Russchian", :type=>"Mixer"}{:name=>"Sherbet", :type=>"Other / Unknown"}{:name=>"Sirup of roses", :type=>"Flavoring / Syrup"}{:name=>"Snapple", :type=>"Mixer"}{:name=>"Soda water", :type=>"Mixer"}{:name=>"Sour mix", :type=>"Mixer"}{:name=>"Soy milk", :type=>"Other / Unknown"}{:name=>"Soy sauce", :type=>"Flavoring / Syrup"}{:name=>"Sprite", :type=>"Mixer"}{:name=>"Squirt", :type=>"Mixer"}{:name=>"Strawberries", :type=>"Fruit / Juice"}{:name=>"Strawberry juice", :type=>"Fruit / Juice"}{:name=>"Strawberry syrup", :type=>"Flavoring / Syrup"}{:name=>"Sugar syrup", :type=>"Flavoring / Syrup"}{:name=>"Sugar", :type=>"Flavoring / Syrup"}{:name=>"Sunny delight", :type=>"Fruit / Juice"}{:name=>"Surge", :type=>"Mixer"}{:name=>"Sweet and sour", :type=>"Mixer"}{:name=>"Tabasco sauce", :type=>"Flavoring / Syrup"}{:name=>"Tang", :type=>"Mixer"}{:name=>"Tea", :type=>"Mixer"}{:name=>"Tomato juice", :type=>"Fruit / Juice"}{:name=>"Tonic water", :type=>"Mixer"}{:name=>"Tropicana", :type=>"Fruit / Juice"}{:name=>"V8 juice", :type=>"Fruit / Juice"}{:name=>"Vanilla ice-cream", :type=>"Other / Unknown"}{:name=>"Vanilla syrup", :type=>"Flavoring / Syrup"}{:name=>"Vanilla", :type=>"Flavoring / Syrup"}{:name=>"Vinegar", :type=>"Other / Unknown"}{:name=>"Watermelon", :type=>"Fruit / Juice"}{:name=>"Water", :type=>"Mixer"}{:name=>"Whipped cream", :type=>"Garnish"}{:name=>"Whipping cream", :type=>"Mixer"}{:name=>"White cranberry juice", :type=>"Fruit / Juice"}{:name=>"White grape juice", :type=>"Fruit / Juice"}{:name=>"Worcestershire sauce", :type=>"Flavoring / Syrup"}{:name=>"Wormwood", :type=>"Herb / Spice"}{:name=>"Yeast", :type=>"Other / Unknown"}{:name=>"Yoghurt", :type=>"Other / Unknown"}{:name=>"Advocaat", :type=>"Liqueur / Cordial"}{:name=>"Aliz\u00E9", :type=>"Liqueur / Cordial"}{:name=>"Amarula Cream", :type=>"Liqueur / Cordial"}{:name=>"Aperol", :type=>"Other / Unknown"}{:name=>"Apfelkorn", :type=>"Other spirit"}{:name=>"Bailey's irish cream", :type=>"Liqueur / Cordial"}{:name=>"Butterscotch schnapps", :type=>"Liqueur / Cordial"}{:name=>"Cactus Juice liqueur", :type=>"Liqueur / Cordial"}{:name=>"Campari", :type=>"Other spirit"}{:name=>"Chambord raspberry liqueur", :type=>"Liqueur / Cordial"}{:name=>"Charleston Follies", :type=>"Liqueur / Cordial"}{:name=>"Cheri Beri Pucker", :type=>"Other spirit"}{:name=>"Cinzano Orancio", :type=>"Wine / Beer"}{:name=>"Corona", :type=>"Wine / Beer"}{:name=>"Cynar", :type=>"Other / Unknown"}{:name=>"Dry Vermouth", :type=>"Wine / Beer"}{:name=>"Dubonnet Blanc", :type=>"Wine / Beer"}{:name=>"Dubonnet Rouge", :type=>"Wine / Beer"}{:name=>"Godiva liqueur", :type=>"Liqueur / Cordial"}{:name=>"Grape Pucker", :type=>"Other spirit"}{:name=>"Guinness stout", :type=>"Wine / Beer"}{:name=>"Hoopers Hooch", :type=>"Wine / Beer"}{:name=>"Hpnotiq", :type=>"Liqueur / Cordial"}{:name=>"Irish cream", :type=>"Liqueur / Cordial"}{:name=>"Key Largo schnapps", :type=>"Other spirit"}{:name=>"Mad Dog 20/20", :type=>"Wine / Beer"}{:name=>"Madeira", :type=>"Wine / Beer"}{:name=>"Malt liquor", :type=>"Wine / Beer"}{:name=>"Maui", :type=>"Other spirit"}{:name=>"Parfait d'Amour", :type=>"Liqueur / Cordial"}{:name=>"Passoa", :type=>"Liqueur / Cordial"}{:name=>"Peachtree schnapps", :type=>"Liqueur / Cordial"}{:name=>"Pineau des Charentes", :type=>"Wine / Beer"}{:name=>"Razzmatazz", :type=>"Liqueur / Cordial"}{:name=>"Safari", :type=>"Liqueur / Cordial"}{:name=>"Saurer apfel", :type=>"Other spirit"}{:name=>"Shochu", :type=>"Other spirit"}{:name=>"Sour Apple Pucker", :type=>"Other spirit"}{:name=>"Sweet Vermouth", :type=>"Wine / Beer"}{:name=>"Taboo", :type=>"Liqueur / Cordial"}{:name=>"Tequila Rose", :type=>"Liqueur / Cordial"}{:name=>"Thunderbird", :type=>"Wine / Beer"}{:name=>"Vermouth", :type=>"Wine / Beer"}{:name=>"West Coast Cooler", :type=>"Wine / Beer"}{:name=>"Zima", :type=>"Wine / Beer"}{:name=>"Absolut Citron", :type=>"Base spirit"}{:name=>"Absolut Kurant", :type=>"Base spirit"}{:name=>"Absolut Mandrin", :type=>"Base spirit"}{:name=>"Absolut Peppar", :type=>"Base spirit"}{:name=>"Absolut Vodka", :type=>"Base spirit"}{:name=>"Aftershock", :type=>"Other spirit"}{:name=>"Amaretto", :type=>"Liqueur / Cordial"}{:name=>"Angostura bitters", :type=>"Flavoring / Syrup"}{:name=>"Applejack", :type=>"Other spirit"}{:name=>"Apricot brandy", :type=>"Other spirit"}{:name=>"Aquavit", :type=>"Other spirit"}{:name=>"Bacardi Limon", :type=>"Base spirit"}{:name=>"Banana liqueur", :type=>"Liqueur / Cordial"}{:name=>"Banana rum", :type=>"Other spirit"}{:name=>"Barenjager", :type=>"Liqueur / Cordial"}{:name=>"Becherovka", :type=>"Liqueur / Cordial"}{:name=>"Benedictine", :type=>"Liqueur / Cordial"}{:name=>"Black Sambuca", :type=>"Liqueur / Cordial"}{:name=>"Blavod vodka", :type=>"Base spirit"}{:name=>"Blended whiskey", :type=>"Base spirit"}{:name=>"Blue Curacao", :type=>"Liqueur / Cordial"}{:name=>"Brandy", :type=>"Base spirit"}{:name=>"Cachaca", :type=>"Other spirit"}{:name=>"Calvados", :type=>"Other spirit"}{:name=>"Canadian whisky", :type=>"Base spirit"}{:name=>"Cherry Heering", :type=>"Liqueur / Cordial"}{:name=>"Cherry liqueur", :type=>"Liqueur / Cordial"}{:name=>"Cherry vodka", :type=>"Base spirit"}{:name=>"Cinnamon schnapps", :type=>"Other spirit"}{:name=>"Citrus vodka", :type=>"Base spirit"}{:name=>"Coconut rum", :type=>"Other spirit"}{:name=>"Coffee liqueur", :type=>"Liqueur / Cordial"}{:name=>"Cognac", :type=>"Base spirit"}{:name=>"Cointreau", :type=>"Liqueur / Cordial"}{:name=>"Cranberry vodka", :type=>"Base spirit"}{:name=>"Creme de Cacao", :type=>"Liqueur / Cordial"}{:name=>"Creme de Cassis", :type=>"Liqueur / Cordial"}{:name=>"Crown Royal", :type=>"Base spirit"}{:name=>"Curacao", :type=>"Liqueur / Cordial"}{:name=>"Dark Creme de Cacao", :type=>"Liqueur / Cordial"}{:name=>"Drambuie", :type=>"Liqueur / Cordial"}{:name=>"Fernet Branca", :type=>"Other spirit"}{:name=>"Frangelico", :type=>"Liqueur / Cordial"}{:name=>"Galliano", :type=>"Liqueur / Cordial"}{:name=>"Genever", :type=>"Base spirit"}{:name=>"Gin", :type=>"Base spirit"}{:name=>"Gold tequila", :type=>"Base spirit"}{:name=>"Goldschlager", :type=>"Other spirit"}{:name=>"Grand Marnier", :type=>"Liqueur / Cordial"}{:name=>"Green Creme de Menthe", :type=>"Liqueur / Cordial"}{:name=>"Green Curacao", :type=>"Liqueur / Cordial"}{:name=>"Hot Damn", :type=>"Other spirit"}{:name=>"Irish whiskey", :type=>"Base spirit"}{:name=>"Jim Beam", :type=>"Base spirit"}{:name=>"Johnnie Walker", :type=>"Base spirit"}{:name=>"Jose Cuervo", :type=>"Base spirit"}{:name=>"J\u00E4germeister", :type=>"Liqueur / Cordial"}{:name=>"Kahlua", :type=>"Liqueur / Cordial"}{:name=>"Lakka", :type=>"Liqueur / Cordial"}{:name=>"Lemon gin", :type=>"Base spirit"}{:name=>"Lemon vodka", :type=>"Base spirit"}{:name=>"Licor 43", :type=>"Liqueur / Cordial"}{:name=>"Lime vodka", :type=>"Base spirit"}{:name=>"Limoncello", :type=>"Liqueur / Cordial"}{:name=>"Malibu rum", :type=>"Other spirit"}{:name=>"Mandarine Napoleon", :type=>"Liqueur / Cordial"}{:name=>"Maraschino liqueur", :type=>"Liqueur / Cordial"}{:name=>"Melon liqueur", :type=>"Liqueur / Cordial"}{:name=>"Melon vodka", :type=>"Base spirit"}{:name=>"Metaxa", :type=>"Other spirit"}{:name=>"Midori melon liqueur", :type=>"Liqueur / Cordial"}{:name=>"Orange bitters", :type=>"Flavoring / Syrup"}{:name=>"Orange Curacao", :type=>"Liqueur / Cordial"}{:name=>"Orange rum", :type=>"Other spirit"}{:name=>"Orange vodka", :type=>"Base spirit"}{:name=>"Ouzo", :type=>"Liqueur / Cordial"}{:name=>"Peach schnapps", :type=>"Other spirit"}{:name=>"Peach Vodka", :type=>"Base spirit"}{:name=>"Pernod", :type=>"Liqueur / Cordial"}{:name=>"Pimm's No. 1", :type=>"Other spirit"}{:name=>"Pineapple rum", :type=>"Other spirit"}{:name=>"Pineapple vodka", :type=>"Base spirit"}{:name=>"Pisang Ambon", :type=>"Liqueur / Cordial"}{:name=>"Raspberry vodka", :type=>"Base spirit"}{:name=>"RedRum", :type=>"Other spirit"}{:name=>"Rye whiskey", :type=>"Base spirit"}{:name=>"Sambuca", :type=>"Liqueur / Cordial"}{:name=>"Scotch", :type=>"Base spirit"}{:name=>"Seagram 7", :type=>"Base spirit"}{:name=>"Sloe gin", :type=>"Liqueur / Cordial"}{:name=>"St. Hallvard", :type=>"Liqueur / Cordial"}{:name=>"Strawberry schnapps", :type=>"Other spirit"}{:name=>"Strawberry vodka", :type=>"Base spirit"}{:name=>"Tequila", :type=>"Base spirit"}{:name=>"Tia maria", :type=>"Liqueur / Cordial"}{:name=>"Triple sec", :type=>"Liqueur / Cordial"}{:name=>"Tuaca", :type=>"Liqueur / Cordial"}{:name=>"Vanilla extract", :type=>"Flavoring / Syrup"}{:name=>"Vanilla vodka", :type=>"Base spirit"}{:name=>"Vodka", :type=>"Base spirit"}{:name=>"Whiskey", :type=>"Base spirit"}{:name=>"Whisky", :type=>"Base spirit"}{:name=>"White Creme de Menthe", :type=>"Liqueur / Cordial"}{:name=>"Yellow Chartreuse", :type=>"Liqueur / Cordial"}{:name=>"151 proof rum", :type=>"Other spirit"}{:name=>"Absinthe", :type=>"Liqueur / Cordial"}{:name=>"Anis", :type=>"Liqueur / Cordial"}{:name=>"Apple brandy", :type=>"Other spirit"}{:name=>"Everclear", :type=>"Other spirit"}{:name=>"Firewater", :type=>"Other spirit"}{:name=>"George Dickel", :type=>"Base spirit"}{:name=>"Green Chartreuse", :type=>"Liqueur / Cordial"}{:name=>"Ice 101", :type=>"Other spirit"}{:name=>"Jack Daniels", :type=>"Base spirit"}{:name=>"Kirschwasser", :type=>"Other spirit"}{:name=>"Pisco", :type=>"Other spirit"}{:name=>"Ricard", :type=>"Liqueur / Cordial"}{:name=>"Rumple Minze", :type=>"Other spirit"}{:name=>"Wild Spirit liqueur", :type=>"Other spirit"}{:name=>"Wild Turkey", :type=>"Base spirit"}{:name=>"Yukon Jack", :type=>"Liqueur / Cordial"}{:name=>"Apple cider", :type=>"Wine / Beer"}{:name=>"Apple schnapps", :type=>"Other spirit"}{:name=>"Beer", :type=>"Wine / Beer"}{:name=>"Bitters", :type=>"Flavoring / Syrup"}{:name=>"Blackberry brandy", :type=>"Other spirit"}{:name=>"Blackcurrant cordial", :type=>"Liqueur / Cordial"}{:name=>"Blackcurrant schnapps", :type=>"Other spirit"}{:name=>"Blueberry schnapps", :type=>"Other spirit"}{:name=>"Bourbon", :type=>"Base spirit"}{:name=>"Champagne", :type=>"Wine / Beer"}{:name=>"Chocolate liqueur", :type=>"Liqueur / Cordial"}{:name=>"Chocolate mint liqueur", :type=>"Liqueur / Cordial"}{:name=>"Cider", :type=>"Wine / Beer"}{:name=>"Creme de Banane", :type=>"Liqueur / Cordial"}{:name=>"Eggnog", :type=>"Liqueur / Cordial"}{:name=>"Ginger beer", :type=>"Mixer"}{:name=>"Grain alcohol", :type=>"Other spirit"}{:name=>"Grape schnapps", :type=>"Other spirit"}{:name=>"Grapefruit schnapps", :type=>"Other spirit"}{:name=>"Hazelnut liqueur", :type=>"Liqueur / Cordial"}{:name=>"Kiwi liqueur", :type=>"Liqueur / Cordial"}{:name=>"Lager", :type=>"Wine / Beer"}{:name=>"Lime liqueur", :type=>"Liqueur / Cordial"}{:name=>"Orange liqueur", :type=>"Liqueur / Cordial"}{:name=>"Pear liqueur", :type=>"Liqueur / Cordial"}{:name=>"Peppermint extract", :type=>"Flavoring / Syrup"}{:name=>"Peppermint schnapps", :type=>"Other spirit"}{:name=>"Port", :type=>"Wine / Beer"}{:name=>"Raspberry liqueur", :type=>"Liqueur / Cordial"}{:name=>"Red wine", :type=>"Wine / Beer"}{:name=>"Rum", :type=>"Base spirit"}{:name=>"Schnapps", :type=>"Other spirit"}{:name=>"Sherry", :type=>"Wine / Beer"}{:name=>"Sour apple liqueur", :type=>"Liqueur / Cordial"}{:name=>"Southern Comfort", :type=>"Liqueur / Cordial"}{:name=>"Sparkling white wine", :type=>"Wine / Beer"}{:name=>"Stout", :type=>"Wine / Beer"}{:name=>"Tennessee whiskey", :type=>"Base spirit"}{:name=>"Watermelon liqueur", :type=>"Liqueur / Cordial"}{:name=>"Whiskey liqueur", :type=>"Liqueur / Cordial"}{:name=>"White wine", :type=>"Wine / Beer"}{:name=>"Wine", :type=>"Wine / Beer"}{:name=>"Ale", :type=>"Wine / Beer"}{:name=>"Almond flavoring", :type=>"Flavoring / Syrup"}{:name=>"Amer Picon", :type=>"Other / Unknown"}{:name=>"Anisette", :type=>"Liqueur / Cordial"}{:name=>"Apricot liqueur", :type=>"Liqueur / Cordial"}{:name=>"A\u00F1ejo rum", :type=>"Base spirit"}{:name=>"Batida de Coco", :type=>"Liqueur / Cordial"}{:name=>"Black rum", :type=>"Base spirit"}{:name=>"Blackberry schnapps", :type=>"Other spirit"}{:name=>"Caramel liqueur", :type=>"Liqueur / Cordial"}{:name=>"Cherry brandy", :type=>"Other spirit"}{:name=>"Coconut liqueur", :type=>"Liqueur / Cordial"}{:name=>"Coffee brandy", :type=>"Other spirit"}{:name=>"Cranberry liqueur", :type=>"Liqueur / Cordial"}{:name=>"Creme de Almond", :type=>"Liqueur / Cordial"}{:name=>"Creme de Fraise des Bois", :type=>"Liqueur / Cordial"}{:name=>"Creme de Fraise", :type=>"Liqueur / Cordial"}{:name=>"Creme de Noyaux", :type=>"Liqueur / Cordial"}{:name=>"Dark rum", :type=>"Base spirit"}{:name=>"Erin Cream", :type=>"Liqueur / Cordial"}{:name=>"Forbidden Fruit", :type=>"Liqueur / Cordial"}{:name=>"Gold rum", :type=>"Base spirit"}{:name=>"Grappa", :type=>"Other spirit"}{:name=>"Irish Mist", :type=>"Liqueur / Cordial"}{:name=>"Kummel", :type=>"Liqueur / Cordial"}{:name=>"Lemon liqueur", :type=>"Liqueur / Cordial"}{:name=>"Lemon schnapps", :type=>"Other spirit"}{:name=>"Light rum", :type=>"Base spirit"}{:name=>"Lillet", :type=>"Wine / Beer"}{:name=>"Mezcal", :type=>"Other spirit"}{:name=>"Peach brandy", :type=>"Other spirit"}{:name=>"Peach liqueur", :type=>"Liqueur / Cordial"}{:name=>"Peanut liqueur", :type=>"Liqueur / Cordial"}{:name=>"Pear brandy", :type=>"Other spirit"}{:name=>"Peychaud bitters", :type=>"Flavoring / Syrup"}{:name=>"Pistachio liqueur", :type=>"Liqueur / Cordial"}{:name=>"Pi\u00F1a Colada", :type=>"Liqueur / Cordial"}{:name=>"Purple passion", :type=>"Other / Unknown"}{:name=>"Raki", :type=>"Liqueur / Cordial"}{:name=>"Raspberry cordial", :type=>"Liqueur / Cordial"}{:name=>"Raspberry schnapps", :type=>"Other spirit"}{:name=>"Rock and rye", :type=>"Liqueur / Cordial"}{:name=>"Root beer schnapps", :type=>"Other spirit"}{:name=>"Rum cream liqueur", :type=>"Liqueur / Cordial"}{:name=>"Sake", :type=>"Wine / Beer"}{:name=>"Spiced rum", :type=>"Base spirit"}{:name=>"Strawberry liqueur", :type=>"Liqueur / Cordial"}{:name=>"Strega", :type=>"Liqueur / Cordial"}{:name=>"Swedish Punsch", :type=>"Liqueur / Cordial"}{:name=>"Swiss Mocha Cream liqueur", :type=>"Liqueur / Cordial"}{:name=>"Tawny port", :type=>"Wine / Beer"}{:name=>"Tropical fruit schnapps", :type=>"Other spirit"}{:name=>"Vanilla liqueur", :type=>"Liqueur / Cordial"}{:name=>"Vanilla schnapps", :type=>"Other spirit"}{:name=>"Watermelon schnapps", :type=>"Other spirit"}{:name=>"White chocolate liqueur", :type=>"Liqueur / Cordial"}{:name=>"White port", :type=>"Wine / Beer"}{:name=>"White rum", :type=>"Base spirit"}{:name=>"Wildberry schnapps", :type=>"Other spirit"}{:name=>"Advocaat", :type=>"Liqueur / Cordial"}{:name=>"Aliz\u00E9", :type=>"Liqueur / Cordial"}{:name=>"Amarula Cream", :type=>"Liqueur / Cordial"}{:name=>"Aperol", :type=>"Other / Unknown"}{:name=>"Apfelkorn", :type=>"Other spirit"}{:name=>"Bailey's irish cream", :type=>"Liqueur / Cordial"}{:name=>"Butterscotch schnapps", :type=>"Liqueur / Cordial"}{:name=>"Cactus Juice liqueur", :type=>"Liqueur / Cordial"}{:name=>"Campari", :type=>"Other spirit"}{:name=>"Chambord raspberry liqueur", :type=>"Liqueur / Cordial"}{:name=>"Charleston Follies", :type=>"Liqueur / Cordial"}{:name=>"Cheri Beri Pucker", :type=>"Other spirit"}{:name=>"Cinzano Orancio", :type=>"Wine / Beer"}{:name=>"Corona", :type=>"Wine / Beer"}{:name=>"Cynar", :type=>"Other / Unknown"}{:name=>"Dry Vermouth", :type=>"Wine / Beer"}{:name=>"Dubonnet Blanc", :type=>"Wine / Beer"}{:name=>"Dubonnet Rouge", :type=>"Wine / Beer"}{:name=>"Godiva liqueur", :type=>"Liqueur / Cordial"}{:name=>"Grape Pucker", :type=>"Other spirit"}{:name=>"Guinness stout", :type=>"Wine / Beer"}{:name=>"Hoopers Hooch", :type=>"Wine / Beer"}{:name=>"Hpnotiq", :type=>"Liqueur / Cordial"}{:name=>"Irish cream", :type=>"Liqueur / Cordial"}{:name=>"Key Largo schnapps", :type=>"Other spirit"}{:name=>"Mad Dog 20/20", :type=>"Wine / Beer"}{:name=>"Madeira", :type=>"Wine / Beer"}{:name=>"Malt liquor", :type=>"Wine / Beer"}{:name=>"Maui", :type=>"Other spirit"}{:name=>"Parfait d'Amour", :type=>"Liqueur / Cordial"}{:name=>"Passoa", :type=>"Liqueur / Cordial"}{:name=>"Peachtree schnapps", :type=>"Liqueur / Cordial"}{:name=>"Pineau des Charentes", :type=>"Wine / Beer"}{:name=>"Razzmatazz", :type=>"Liqueur / Cordial"}{:name=>"Safari", :type=>"Liqueur / Cordial"}{:name=>"Saurer apfel", :type=>"Other spirit"}{:name=>"Shochu", :type=>"Other spirit"}{:name=>"Sour Apple Pucker", :type=>"Other spirit"}{:name=>"Sweet Vermouth", :type=>"Wine / Beer"}{:name=>"Taboo", :type=>"Liqueur / Cordial"}{:name=>"Tequila Rose", :type=>"Liqueur / Cordial"}{:name=>"Thunderbird", :type=>"Wine / Beer"}{:name=>"Vermouth", :type=>"Wine / Beer"}{:name=>"West Coast Cooler", :type=>"Wine / Beer"}{:name=>"Zima", :type=>"Wine / Beer"}{:name=>"Absolut Citron", :type=>"Base spirit"}{:name=>"Absolut Kurant", :type=>"Base spirit"}{:name=>"Absolut Mandrin", :type=>"Base spirit"}{:name=>"Absolut Peppar", :type=>"Base spirit"}{:name=>"Absolut Vodka", :type=>"Base spirit"}{:name=>"Aftershock", :type=>"Other spirit"}{:name=>"Amaretto", :type=>"Liqueur / Cordial"}{:name=>"Angostura bitters", :type=>"Flavoring / Syrup"}{:name=>"Applejack", :type=>"Other spirit"}{:name=>"Apricot brandy", :type=>"Other spirit"}{:name=>"Aquavit", :type=>"Other spirit"}{:name=>"Bacardi Limon", :type=>"Base spirit"}{:name=>"Banana liqueur", :type=>"Liqueur / Cordial"}{:name=>"Banana rum", :type=>"Other spirit"}{:name=>"Barenjager", :type=>"Liqueur / Cordial"}{:name=>"Becherovka", :type=>"Liqueur / Cordial"}{:name=>"Benedictine", :type=>"Liqueur / Cordial"}{:name=>"Black Sambuca", :type=>"Liqueur / Cordial"}{:name=>"Blavod vodka", :type=>"Base spirit"}{:name=>"Blended whiskey", :type=>"Base spirit"}{:name=>"Blue Curacao", :type=>"Liqueur / Cordial"}{:name=>"Brandy", :type=>"Base spirit"}{:name=>"Cachaca", :type=>"Other spirit"}{:name=>"Calvados", :type=>"Other spirit"}{:name=>"Canadian whisky", :type=>"Base spirit"}{:name=>"Cherry Heering", :type=>"Liqueur / Cordial"}{:name=>"Cherry liqueur", :type=>"Liqueur / Cordial"}{:name=>"Cherry vodka", :type=>"Base spirit"}{:name=>"Cinnamon schnapps", :type=>"Other spirit"}{:name=>"Citrus vodka", :type=>"Base spirit"}{:name=>"Coconut rum", :type=>"Other spirit"}{:name=>"Coffee liqueur", :type=>"Liqueur / Cordial"}{:name=>"Cognac", :type=>"Base spirit"}{:name=>"Cointreau", :type=>"Liqueur / Cordial"}{:name=>"Cranberry vodka", :type=>"Base spirit"}{:name=>"Creme de Cacao", :type=>"Liqueur / Cordial"}{:name=>"Creme de Cassis", :type=>"Liqueur / Cordial"}{:name=>"Crown Royal", :type=>"Base spirit"}{:name=>"Curacao", :type=>"Liqueur / Cordial"}{:name=>"Dark Creme de Cacao", :type=>"Liqueur / Cordial"}{:name=>"Drambuie", :type=>"Liqueur / Cordial"}{:name=>"Fernet Branca", :type=>"Other spirit"}{:name=>"Frangelico", :type=>"Liqueur / Cordial"}{:name=>"Galliano", :type=>"Liqueur / Cordial"}{:name=>"Genever", :type=>"Base spirit"}{:name=>"Gin", :type=>"Base spirit"}{:name=>"Gold tequila", :type=>"Base spirit"}{:name=>"Goldschlager", :type=>"Other spirit"}{:name=>"Grand Marnier", :type=>"Liqueur / Cordial"}{:name=>"Green Creme de Menthe", :type=>"Liqueur / Cordial"}{:name=>"Green Curacao", :type=>"Liqueur / Cordial"}{:name=>"Hot Damn", :type=>"Other spirit"}{:name=>"Irish whiskey", :type=>"Base spirit"}{:name=>"Jim Beam", :type=>"Base spirit"}{:name=>"Johnnie Walker", :type=>"Base spirit"}{:name=>"Jose Cuervo", :type=>"Base spirit"}{:name=>"J\u00E4germeister", :type=>"Liqueur / Cordial"}{:name=>"Kahlua", :type=>"Liqueur / Cordial"}{:name=>"Lakka", :type=>"Liqueur / Cordial"}{:name=>"Lemon gin", :type=>"Base spirit"}{:name=>"Lemon vodka", :type=>"Base spirit"}{:name=>"Licor 43", :type=>"Liqueur / Cordial"}{:name=>"Lime vodka", :type=>"Base spirit"}{:name=>"Limoncello", :type=>"Liqueur / Cordial"}{:name=>"Malibu rum", :type=>"Other spirit"}{:name=>"Mandarine Napoleon", :type=>"Liqueur / Cordial"}{:name=>"Maraschino liqueur", :type=>"Liqueur / Cordial"}{:name=>"Melon liqueur", :type=>"Liqueur / Cordial"}{:name=>"Melon vodka", :type=>"Base spirit"}{:name=>"Metaxa", :type=>"Other spirit"}{:name=>"Midori melon liqueur", :type=>"Liqueur / Cordial"}{:name=>"Orange bitters", :type=>"Flavoring / Syrup"}{:name=>"Orange Curacao", :type=>"Liqueur / Cordial"}{:name=>"Orange rum", :type=>"Other spirit"}{:name=>"Orange vodka", :type=>"Base spirit"}{:name=>"Ouzo", :type=>"Liqueur / Cordial"}{:name=>"Peach schnapps", :type=>"Other spirit"}{:name=>"Peach Vodka", :type=>"Base spirit"}{:name=>"Pernod", :type=>"Liqueur / Cordial"}{:name=>"Pimm's No. 1", :type=>"Other spirit"}{:name=>"Pineapple rum", :type=>"Other spirit"}{:name=>"Pineapple vodka", :type=>"Base spirit"}{:name=>"Pisang Ambon", :type=>"Liqueur / Cordial"}{:name=>"Raspberry vodka", :type=>"Base spirit"}{:name=>"RedRum", :type=>"Other spirit"}{:name=>"Rye whiskey", :type=>"Base spirit"}{:name=>"Sambuca", :type=>"Liqueur / Cordial"}{:name=>"Scotch", :type=>"Base spirit"}{:name=>"Seagram 7", :type=>"Base spirit"}{:name=>"Sloe gin", :type=>"Liqueur / Cordial"}{:name=>"St. Hallvard", :type=>"Liqueur / Cordial"}{:name=>"Strawberry schnapps", :type=>"Other spirit"}{:name=>"Strawberry vodka", :type=>"Base spirit"}{:name=>"Tequila", :type=>"Base spirit"}{:name=>"Tia maria", :type=>"Liqueur / Cordial"}{:name=>"Triple sec", :type=>"Liqueur / Cordial"}{:name=>"Tuaca", :type=>"Liqueur / Cordial"}{:name=>"Vanilla extract", :type=>"Flavoring / Syrup"}{:name=>"Vanilla vodka", :type=>"Base spirit"}{:name=>"Vodka", :type=>"Base spirit"}{:name=>"Whiskey", :type=>"Base spirit"}{:name=>"Whisky", :type=>"Base spirit"}{:name=>"White Creme de Menthe", :type=>"Liqueur / Cordial"}{:name=>"Yellow Chartreuse", :type=>"Liqueur / Cordial"}{:name=>"151 proof rum", :type=>"Other spirit"}{:name=>"Absinthe", :type=>"Liqueur / Cordial"}{:name=>"Anis", :type=>"Liqueur / Cordial"}{:name=>"Apple brandy", :type=>"Other spirit"}{:name=>"Everclear", :type=>"Other spirit"}{:name=>"Firewater", :type=>"Other spirit"}{:name=>"George Dickel", :type=>"Base spirit"}{:name=>"Green Chartreuse", :type=>"Liqueur / Cordial"}{:name=>"Ice 101", :type=>"Other spirit"}{:name=>"Jack Daniels", :type=>"Base spirit"}{:name=>"Kirschwasser", :type=>"Other spirit"}{:name=>"Pisco", :type=>"Other spirit"}{:name=>"Ricard", :type=>"Liqueur / Cordial"}{:name=>"Rumple Minze", :type=>"Other spirit"}{:name=>"Wild Spirit liqueur", :type=>"Other spirit"}{:name=>"Wild Turkey", :type=>"Base spirit"}{:name=>"Yukon Jack", :type=>"Liqueur / Cordial"}{:name=>"Apple cider", :type=>"Wine / Beer"}{:name=>"Apple schnapps", :type=>"Other spirit"}{:name=>"Beer", :type=>"Wine / Beer"}{:name=>"Bitters", :type=>"Flavoring / Syrup"}{:name=>"Blackberry brandy", :type=>"Other spirit"}{:name=>"Blackcurrant cordial", :type=>"Liqueur / Cordial"}{:name=>"Blackcurrant schnapps", :type=>"Other spirit"}{:name=>"Blueberry schnapps", :type=>"Other spirit"}{:name=>"Bourbon", :type=>"Base spirit"}{:name=>"Champagne", :type=>"Wine / Beer"}{:name=>"Chocolate liqueur", :type=>"Liqueur / Cordial"}{:name=>"Chocolate mint liqueur", :type=>"Liqueur / Cordial"}{:name=>"Cider", :type=>"Wine / Beer"}{:name=>"Creme de Banane", :type=>"Liqueur / Cordial"}{:name=>"Eggnog", :type=>"Liqueur / Cordial"}{:name=>"Ginger beer", :type=>"Mixer"}{:name=>"Grain alcohol", :type=>"Other spirit"}{:name=>"Grape schnapps", :type=>"Other spirit"}{:name=>"Grapefruit schnapps", :type=>"Other spirit"}{:name=>"Hazelnut liqueur", :type=>"Liqueur / Cordial"}{:name=>"Kiwi liqueur", :type=>"Liqueur / Cordial"}{:name=>"Lager", :type=>"Wine / Beer"}{:name=>"Lime liqueur", :type=>"Liqueur / Cordial"}{:name=>"Orange liqueur", :type=>"Liqueur / Cordial"}{:name=>"Pear liqueur", :type=>"Liqueur / Cordial"}{:name=>"Peppermint extract", :type=>"Flavoring / Syrup"}{:name=>"Peppermint schnapps", :type=>"Other spirit"}{:name=>"Port", :type=>"Wine / Beer"}{:name=>"Raspberry liqueur", :type=>"Liqueur / Cordial"}{:name=>"Red wine", :type=>"Wine / Beer"}{:name=>"Rum", :type=>"Base spirit"}{:name=>"Schnapps", :type=>"Other spirit"}{:name=>"Sherry", :type=>"Wine / Beer"}{:name=>"Sour apple liqueur", :type=>"Liqueur / Cordial"}{:name=>"Southern Comfort", :type=>"Liqueur / Cordial"}{:name=>"Sparkling white wine", :type=>"Wine / Beer"}{:name=>"Stout", :type=>"Wine / Beer"}{:name=>"Tennessee whiskey", :type=>"Base spirit"}{:name=>"Watermelon liqueur", :type=>"Liqueur / Cordial"}{:name=>"Whiskey liqueur", :type=>"Liqueur / Cordial"}{:name=>"White wine", :type=>"Wine / Beer"}{:name=>"Wine", :type=>"Wine / Beer"}{:name=>"Ale", :type=>"Wine / Beer"}{:name=>"Almond flavoring", :type=>"Flavoring / Syrup"}{:name=>"Amer Picon", :type=>"Other / Unknown"}{:name=>"Anisette", :type=>"Liqueur / Cordial"}{:name=>"Apricot liqueur", :type=>"Liqueur / Cordial"}{:name=>"A\u00F1ejo rum", :type=>"Base spirit"}{:name=>"Batida de Coco", :type=>"Liqueur / Cordial"}{:name=>"Black rum", :type=>"Base spirit"}{:name=>"Blackberry schnapps", :type=>"Other spirit"}{:name=>"Caramel liqueur", :type=>"Liqueur / Cordial"}{:name=>"Cherry brandy", :type=>"Other spirit"}{:name=>"Coconut liqueur", :type=>"Liqueur / Cordial"}{:name=>"Coffee brandy", :type=>"Other spirit"}{:name=>"Cranberry liqueur", :type=>"Liqueur / Cordial"}{:name=>"Creme de Almond", :type=>"Liqueur / Cordial"}{:name=>"Creme de Fraise des Bois", :type=>"Liqueur / Cordial"}{:name=>"Creme de Fraise", :type=>"Liqueur / Cordial"}{:name=>"Creme de Noyaux", :type=>"Liqueur / Cordial"}{:name=>"Dark rum", :type=>"Base spirit"}{:name=>"Erin Cream", :type=>"Liqueur / Cordial"}{:name=>"Forbidden Fruit", :type=>"Liqueur / Cordial"}{:name=>"Gold rum", :type=>"Base spirit"}{:name=>"Grappa", :type=>"Other spirit"}{:name=>"Irish Mist", :type=>"Liqueur / Cordial"}{:name=>"Kummel", :type=>"Liqueur / Cordial"}{:name=>"Lemon liqueur", :type=>"Liqueur / Cordial"}{:name=>"Lemon schnapps", :type=>"Other spirit"}{:name=>"Light rum", :type=>"Base spirit"}{:name=>"Lillet", :type=>"Wine / Beer"}{:name=>"Mezcal", :type=>"Other spirit"}{:name=>"Peach brandy", :type=>"Other spirit"}{:name=>"Peach liqueur", :type=>"Liqueur / Cordial"}{:name=>"Peanut liqueur", :type=>"Liqueur / Cordial"}{:name=>"Pear brandy", :type=>"Other spirit"}{:name=>"Peychaud bitters", :type=>"Flavoring / Syrup"}{:name=>"Pistachio liqueur", :type=>"Liqueur / Cordial"}{:name=>"Pi\u00F1a Colada", :type=>"Liqueur / Cordial"}{:name=>"Purple passion", :type=>"Other / Unknown"}{:name=>"Raki", :type=>"Liqueur / Cordial"}{:name=>"Raspberry cordial", :type=>"Liqueur / Cordial"}{:name=>"Raspberry schnapps", :type=>"Other spirit"}{:name=>"Rock and rye", :type=>"Liqueur / Cordial"}{:name=>"Root beer schnapps", :type=>"Other spirit"}{:name=>"Rum cream liqueur", :type=>"Liqueur / Cordial"}{:name=>"Sake", :type=>"Wine / Beer"}{:name=>"Spiced rum", :type=>"Base spirit"}{:name=>"Strawberry liqueur", :type=>"Liqueur / Cordial"}{:name=>"Strega", :type=>"Liqueur / Cordial"}{:name=>"Swedish Punsch", :type=>"Liqueur / Cordial"}{:name=>"Swiss Mocha Cream liqueur", :type=>"Liqueur / Cordial"}{:name=>"Tawny port", :type=>"Wine / Beer"}{:name=>"Tropical fruit schnapps", :type=>"Other spirit"}{:name=>"Vanilla liqueur", :type=>"Liqueur / Cordial"}{:name=>"Vanilla schnapps", :type=>"Other spirit"}{:name=>"Watermelon schnapps", :type=>"Other spirit"}{:name=>"White chocolate liqueur", :type=>"Liqueur / Cordial"}{:name=>"White port", :type=>"Wine / Beer"}{:name=>"White rum", :type=>"Base spirit"}{:name=>"Wildberry schnapps", :type=>"Other spirit"}
+{:name=>"7-Up", :type=>"Mixer"}
+{:name=>"Acerola", :type=>"Fruit / Juice"}
+{:name=>"Allspice", :type=>"Herb / Spice"}
+{:name=>"Almond syrup", :type=>"Flavoring / Syrup"}
+{:name=>"Almond", :type=>"Garnish"}
+{:name=>"Angelica root", :type=>"Herb / Spice"}
+{:name=>"Anise", :type=>"Herb / Spice"}
+{:name=>"Apple juice", :type=>"Fruit / Juice"}
+{:name=>"Apple-cranberry juice", :type=>"Fruit / Juice"}
+{:name=>"Apple", :type=>"Fruit / Juice"}
+{:name=>"Apricot nectar", :type=>"Fruit / Juice"}
+{:name=>"Apricot", :type=>"Fruit / Juice"}
+{:name=>"Asafoetida", :type=>"Flavoring / Syrup"}
+{:name=>"Avocado", :type=>"Other / Unknown"}
+{:name=>"Banana syrup", :type=>"Flavoring / Syrup"}
+{:name=>"Banana", :type=>"Fruit / Juice"}
+{:name=>"Battery", :type=>"Mixer"}
+{:name=>"Beef bouillon", :type=>"Flavoring / Syrup"}
+{:name=>"Berries", :type=>"Fruit / Juice"}
+{:name=>"Bitter lemon", :type=>"Mixer"}
+{:name=>"Black pepper", :type=>"Herb / Spice"}
+{:name=>"Blackberries", :type=>"Fruit / Juice"}
+{:name=>"Blackcurrant squash", :type=>"Fruit / Juice"}
+{:name=>"Bloody mary mix", :type=>"Mixer"}
+{:name=>"Blueberries", :type=>"Fruit / Juice"}
+{:name=>"Bread", :type=>"Other / Unknown"}
+{:name=>"Brown sugar", :type=>"Flavoring / Syrup"}
+{:name=>"Butter", :type=>"Other / Unknown"}
+{:name=>"Candy", :type=>"Other / Unknown"}
+{:name=>"Cantaloupe", :type=>"Fruit / Juice"}
+{:name=>"Cappuccino", :type=>"Mixer"}
+{:name=>"Caramel coloring", :type=>"Flavoring / Syrup"}
+{:name=>"Caramel", :type=>"Flavoring / Syrup"}
+{:name=>"Carbonated soft drink", :type=>"Mixer"}
+{:name=>"Carbonated water", :type=>"Mixer"}
+{:name=>"Cardamom", :type=>"Herb / Spice"}
+{:name=>"Carrot", :type=>"Garnish"}
+{:name=>"Cayenne pepper", :type=>"Herb / Spice"}
+{:name=>"Celery salt", :type=>"Herb / Spice"}
+{:name=>"Celery", :type=>"Garnish"}
+{:name=>"Cherries", :type=>"Garnish"}
+{:name=>"Cherry Cola", :type=>"Mixer"}
+{:name=>"Cherry juice", :type=>"Fruit / Juice"}
+{:name=>"Cherry syrup", :type=>"Flavoring / Syrup"}
+{:name=>"Cherry", :type=>"Garnish"}
+{:name=>"Chili sauce", :type=>"Flavoring / Syrup"}
+{:name=>"Chocolate ice-cream", :type=>"Other / Unknown"}
+{:name=>"Chocolate milk", :type=>"Mixer"}
+{:name=>"Chocolate syrup", :type=>"Flavoring / Syrup"}
+{:name=>"Chocolate", :type=>"Flavoring / Syrup"}
+{:name=>"Cinnamon", :type=>"Herb / Spice"}
+{:name=>"Cinzano Bitters", :type=>"Flavoring / Syrup"}
+{:name=>"Clamato juice", :type=>"Fruit / Juice"}
+{:name=>"Cloves", :type=>"Herb / Spice"}
+{:name=>"Clove", :type=>"Herb / Spice"}
+{:name=>"Club soda", :type=>"Mixer"}
+{:name=>"Coca-Cola", :type=>"Mixer"}
+{:name=>"Cocktail onion", :type=>"Garnish"}
+{:name=>"Cocoa powder", :type=>"Flavoring / Syrup"}
+{:name=>"Coconut cream", :type=>"Flavoring / Syrup"}
+{:name=>"Coconut milk", :type=>"Mixer"}
+{:name=>"Coconut syrup", :type=>"Flavoring / Syrup"}
+{:name=>"Coconut", :type=>"Garnish"}
+{:name=>"Coffeemate", :type=>"Other / Unknown"}
+{:name=>"Coffee", :type=>"Mixer"}
+{:name=>"Cola", :type=>"Mixer"}
+{:name=>"Collins mix", :type=>"Mixer"}
+{:name=>"Condensed milk", :type=>"Mixer"}
+{:name=>"Coriander", :type=>"Herb / Spice"}
+{:name=>"Corn syrup", :type=>"Other / Unknown"}
+{:name=>"Cornstarch", :type=>"Other / Unknown"}
+{:name=>"Cranberries", :type=>"Fruit / Juice"}
+{:name=>"Cranberry juice", :type=>"Fruit / Juice"}
+{:name=>"Cream of coconut", :type=>"Mixer"}
+{:name=>"Cream soda", :type=>"Mixer"}
+{:name=>"Cream", :type=>"Mixer"}
+{:name=>"Crystal light", :type=>"Mixer"}
+{:name=>"Cucumber", :type=>"Garnish"}
+{:name=>"Cumin seed", :type=>"Herb / Spice"}
+{:name=>"Daiquiri mix", :type=>"Mixer"}
+{:name=>"Dr. Pepper", :type=>"Mixer"}
+{:name=>"Egg white", :type=>"Other / Unknown"}
+{:name=>"Egg yolk", :type=>"Other / Unknown"}
+{:name=>"Egg", :type=>"Other / Unknown"}
+{:name=>"Espresso", :type=>"Mixer"}
+{:name=>"Fanta", :type=>"Mixer"}
+{:name=>"Fennel seeds", :type=>"Herb / Spice"}
+{:name=>"Figs", :type=>"Fruit / Juice"}
+{:name=>"Food coloring", :type=>"Other / Unknown"}
+{:name=>"Fresca", :type=>"Mixer"}
+{:name=>"Fruit cocktail", :type=>"Fruit / Juice"}
+{:name=>"Fruit juice", :type=>"Fruit / Juice"}
+{:name=>"Fruit punch", :type=>"Mixer"}
+{:name=>"Fruit syrup", :type=>"Flavoring / Syrup"}
+{:name=>"Fruit", :type=>"Fruit / Juice"}
+{:name=>"Gatorade", :type=>"Mixer"}
+{:name=>"Gelatin", :type=>"Other / Unknown"}
+{:name=>"Ginger ale", :type=>"Mixer"}
+{:name=>"Ginger", :type=>"Herb / Spice"}
+{:name=>"Glycerine", :type=>"Other / Unknown"}
+{:name=>"Grape juice", :type=>"Fruit / Juice"}
+{:name=>"Grape soda", :type=>"Mixer"}
+{:name=>"Grapefruit juice", :type=>"Fruit / Juice"}
+{:name=>"Grapefruit-lemon soda", :type=>"Mixer"}
+{:name=>"Grapefruit", :type=>"Fruit / Juice"}
+{:name=>"Grapes", :type=>"Fruit / Juice"}
+{:name=>"Grenadine", :type=>"Flavoring / Syrup"}
+{:name=>"Guava juice", :type=>"Fruit / Juice"}
+{:name=>"Guava syrup", :type=>"Flavoring / Syrup"}
+{:name=>"Half-and-half", :type=>"Mixer"}
+{:name=>"Hawaiian Punch", :type=>"Mixer"}
+{:name=>"Heavy cream", :type=>"Mixer"}
+{:name=>"Honey", :type=>"Flavoring / Syrup"}
+{:name=>"Horseradish", :type=>"Garnish"}
+{:name=>"Hot chocolate", :type=>"Mixer"}
+{:name=>"Hot red pepper flakes", :type=>"Herb / Spice"}
+{:name=>"Ice-cream", :type=>"Other / Unknown"}
+{:name=>"Iced tea", :type=>"Mixer"}
+{:name=>"Ice", :type=>"Other / Unknown"}
+{:name=>"Jalapeno", :type=>"Garnish"}
+{:name=>"Jello", :type=>"Other / Unknown"}
+{:name=>"Jolt Cola", :type=>"Mixer"}
+{:name=>"Kiwi", :type=>"Fruit / Juice"}
+{:name=>"Kool-Aid", :type=>"Mixer"}
+{:name=>"Kumquat", :type=>"Fruit / Juice"}
+{:name=>"Lemon juice", :type=>"Fruit / Juice"}
+{:name=>"Lemon peel", :type=>"Garnish"}
+{:name=>"Lemon soda", :type=>"Mixer"}
+{:name=>"Lemon-lime mix", :type=>"Mixer"}
+{:name=>"Lemon-lime soda", :type=>"Mixer"}
+{:name=>"Lemonade", :type=>"Mixer"}
+{:name=>"Lemon", :type=>"Fruit / Juice"}
+{:name=>"Licorice root", :type=>"Herb / Spice"}
+{:name=>"Light cream", :type=>"Mixer"}
+{:name=>"Lime juice cordial", :type=>"Flavoring / Syrup"}
+{:name=>"Lime juice", :type=>"Fruit / Juice"}
+{:name=>"Lime peel", :type=>"Garnish"}
+{:name=>"Limeade", :type=>"Mixer"}
+{:name=>"Lime", :type=>"Fruit / Juice"}
+{:name=>"Lingonberry jam", :type=>"Other / Unknown"}
+{:name=>"Mandarin", :type=>"Fruit / Juice"}
+{:name=>"Mango juice", :type=>"Fruit / Juice"}
+{:name=>"Mango syrup", :type=>"Flavoring / Syrup"}
+{:name=>"Mango", :type=>"Fruit / Juice"}
+{:name=>"Maple syrup", :type=>"Flavoring / Syrup"}
+{:name=>"Maraschino cherry juice", :type=>"Fruit / Juice"}
+{:name=>"Maraschino cherry", :type=>"Garnish"}
+{:name=>"Margarita mix", :type=>"Mixer"}
+{:name=>"Marjoram leaves", :type=>"Herb / Spice"}
+{:name=>"Marshmallows", :type=>"Garnish"}
+{:name=>"Mello Yello", :type=>"Mixer"}
+{:name=>"Melon", :type=>"Fruit / Juice"}
+{:name=>"Milk", :type=>"Mixer"}
+{:name=>"Mint syrup", :type=>"Flavoring / Syrup"}
+{:name=>"Mint", :type=>"Garnish"}
+{:name=>"Molasses", :type=>"Other / Unknown"}
+{:name=>"Monin bitter", :type=>"Flavoring / Syrup"}
+{:name=>"Mountain Dew", :type=>"Mixer"}
+{:name=>"Nutmeg", :type=>"Herb / Spice"}
+{:name=>"Nuts", :type=>"Garnish"}
+{:name=>"Olive juice", :type=>"Other / Unknown"}
+{:name=>"Olive", :type=>"Garnish"}
+{:name=>"Orange juice", :type=>"Fruit / Juice"}
+{:name=>"Orange peel", :type=>"Garnish"}
+{:name=>"Orange soda", :type=>"Mixer"}
+{:name=>"Orange spiral", :type=>"Garnish"}
+{:name=>"Orange-flower water", :type=>"Flavoring / Syrup"}
+{:name=>"Orange", :type=>"Fruit / Juice"}
+{:name=>"Oreo cookie", :type=>"Other / Unknown"}
+{:name=>"Orgeat syrup", :type=>"Flavoring / Syrup"}
+{:name=>"Papaya juice", :type=>"Fruit / Juice"}
+{:name=>"Papaya", :type=>"Fruit / Juice"}
+{:name=>"Passion fruit juice", :type=>"Fruit / Juice"}
+{:name=>"Passion fruit syrup", :type=>"Flavoring / Syrup"}
+{:name=>"Peach juice", :type=>"Fruit / Juice"}
+{:name=>"Peach nectar", :type=>"Fruit / Juice"}
+{:name=>"Peach", :type=>"Fruit / Juice"}
+{:name=>"Pear juice", :type=>"Flavoring / Syrup"}
+{:name=>"Pear soft drink", :type=>"Mixer"}
+{:name=>"Pear", :type=>"Fruit / Juice"}
+{:name=>"Pepper sauce", :type=>"Flavoring / Syrup"}
+{:name=>"Pepsi Cola", :type=>"Mixer"}
+{:name=>"Pickled pepper", :type=>"Herb / Spice"}
+{:name=>"Pina colada mix", :type=>"Mixer"}
+{:name=>"Pineapple juice", :type=>"Fruit / Juice"}
+{:name=>"Pineapple soda", :type=>"Mixer"}
+{:name=>"Pineapple-coconut juice", :type=>"Fruit / Juice"}
+{:name=>"Pineapple-orange juice", :type=>"Fruit / Juice"}
+{:name=>"Pineapple-orange-banana juice", :type=>"Fruit / Juice"}
+{:name=>"Pineapple", :type=>"Fruit / Juice"}
+{:name=>"Pink lemonade", :type=>"Mixer"}
+{:name=>"Plums", :type=>"Fruit / Juice"}
+{:name=>"Powdered sugar", :type=>"Flavoring / Syrup"}
+{:name=>"Prune juice", :type=>"Fruit / Juice"}
+{:name=>"Pumpkin", :type=>"Fruit / Juice"}
+{:name=>"Raisins", :type=>"Garnish"}
+{:name=>"Raspberries", :type=>"Fruit / Juice"}
+{:name=>"Raspberry jam", :type=>"Other / Unknown"}
+{:name=>"Raspberry juice", :type=>"Fruit / Juice"}
+{:name=>"Raspberry syrup", :type=>"Flavoring / Syrup"}
+{:name=>"Red Bull", :type=>"Mixer"}
+{:name=>"Rhubarb", :type=>"Fruit / Juice"}
+{:name=>"Root beer", :type=>"Mixer"}
+{:name=>"Rose's sweetened lime juice", :type=>"Flavoring / Syrup"}
+{:name=>"Rosewater", :type=>"Flavoring / Syrup"}
+{:name=>"Salt", :type=>"Herb / Spice"}
+{:name=>"Sarsaparilla", :type=>"Mixer"}
+{:name=>"Schweppes Lemon", :type=>"Mixer"}
+{:name=>"Schweppes Russchian", :type=>"Mixer"}
+{:name=>"Sherbet", :type=>"Other / Unknown"}
+{:name=>"Sirup of roses", :type=>"Flavoring / Syrup"}
+{:name=>"Snapple", :type=>"Mixer"}
+{:name=>"Soda water", :type=>"Mixer"}
+{:name=>"Sour mix", :type=>"Mixer"}
+{:name=>"Soy milk", :type=>"Other / Unknown"}
+{:name=>"Soy sauce", :type=>"Flavoring / Syrup"}
+{:name=>"Sprite", :type=>"Mixer"}
+{:name=>"Squirt", :type=>"Mixer"}
+{:name=>"Strawberries", :type=>"Fruit / Juice"}
+{:name=>"Strawberry juice", :type=>"Fruit / Juice"}
+{:name=>"Strawberry syrup", :type=>"Flavoring / Syrup"}
+{:name=>"Sugar syrup", :type=>"Flavoring / Syrup"}
+{:name=>"Sugar", :type=>"Flavoring / Syrup"}
+{:name=>"Sunny delight", :type=>"Fruit / Juice"}
+{:name=>"Surge", :type=>"Mixer"}
+{:name=>"Sweet and sour", :type=>"Mixer"}
+{:name=>"Tabasco sauce", :type=>"Flavoring / Syrup"}
+{:name=>"Tang", :type=>"Mixer"}
+{:name=>"Tea", :type=>"Mixer"}
+{:name=>"Tomato juice", :type=>"Fruit / Juice"}
+{:name=>"Tonic water", :type=>"Mixer"}
+{:name=>"Tropicana", :type=>"Fruit / Juice"}
+{:name=>"V8 juice", :type=>"Fruit / Juice"}
+{:name=>"Vanilla ice-cream", :type=>"Other / Unknown"}
+{:name=>"Vanilla syrup", :type=>"Flavoring / Syrup"}
+{:name=>"Vanilla", :type=>"Flavoring / Syrup"}
+{:name=>"Vinegar", :type=>"Other / Unknown"}
+{:name=>"Watermelon", :type=>"Fruit / Juice"}
+{:name=>"Water", :type=>"Mixer"}
+{:name=>"Whipped cream", :type=>"Garnish"}
+{:name=>"Whipping cream", :type=>"Mixer"}
+{:name=>"White cranberry juice", :type=>"Fruit / Juice"}
+{:name=>"White grape juice", :type=>"Fruit / Juice"}
+{:name=>"Worcestershire sauce", :type=>"Flavoring / Syrup"}
+{:name=>"Wormwood", :type=>"Herb / Spice"}
+{:name=>"Yeast", :type=>"Other / Unknown"}
+{:name=>"Yoghurt", :type=>"Other / Unknown"}
+{:name=>"Advocaat", :type=>"Liqueur / Cordial"}
+{:name=>"Aliz\u00E9", :type=>"Liqueur / Cordial"}
+{:name=>"Amarula Cream", :type=>"Liqueur / Cordial"}
+{:name=>"Aperol", :type=>"Other / Unknown"}
+{:name=>"Apfelkorn", :type=>"Other spirit"}
+{:name=>"Bailey's irish cream", :type=>"Liqueur / Cordial"}
+{:name=>"Butterscotch schnapps", :type=>"Liqueur / Cordial"}
+{:name=>"Cactus Juice liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Campari", :type=>"Other spirit"}
+{:name=>"Chambord raspberry liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Charleston Follies", :type=>"Liqueur / Cordial"}
+{:name=>"Cheri Beri Pucker", :type=>"Other spirit"}
+{:name=>"Cinzano Orancio", :type=>"Wine / Beer"}
+{:name=>"Corona", :type=>"Wine / Beer"}
+{:name=>"Cynar", :type=>"Other / Unknown"}
+{:name=>"Dry Vermouth", :type=>"Wine / Beer"}
+{:name=>"Dubonnet Blanc", :type=>"Wine / Beer"}
+{:name=>"Dubonnet Rouge", :type=>"Wine / Beer"}
+{:name=>"Godiva liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Grape Pucker", :type=>"Other spirit"}
+{:name=>"Guinness stout", :type=>"Wine / Beer"}
+{:name=>"Hoopers Hooch", :type=>"Wine / Beer"}
+{:name=>"Hpnotiq", :type=>"Liqueur / Cordial"}
+{:name=>"Irish cream", :type=>"Liqueur / Cordial"}
+{:name=>"Key Largo schnapps", :type=>"Other spirit"}
+{:name=>"Mad Dog 20/20", :type=>"Wine / Beer"}
+{:name=>"Madeira", :type=>"Wine / Beer"}
+{:name=>"Malt liquor", :type=>"Wine / Beer"}
+{:name=>"Maui", :type=>"Other spirit"}
+{:name=>"Parfait d'Amour", :type=>"Liqueur / Cordial"}
+{:name=>"Passoa", :type=>"Liqueur / Cordial"}
+{:name=>"Peachtree schnapps", :type=>"Liqueur / Cordial"}
+{:name=>"Pineau des Charentes", :type=>"Wine / Beer"}
+{:name=>"Razzmatazz", :type=>"Liqueur / Cordial"}
+{:name=>"Safari", :type=>"Liqueur / Cordial"}
+{:name=>"Saurer apfel", :type=>"Other spirit"}
+{:name=>"Shochu", :type=>"Other spirit"}
+{:name=>"Sour Apple Pucker", :type=>"Other spirit"}
+{:name=>"Sweet Vermouth", :type=>"Wine / Beer"}
+{:name=>"Taboo", :type=>"Liqueur / Cordial"}
+{:name=>"Tequila Rose", :type=>"Liqueur / Cordial"}
+{:name=>"Thunderbird", :type=>"Wine / Beer"}
+{:name=>"Vermouth", :type=>"Wine / Beer"}
+{:name=>"West Coast Cooler", :type=>"Wine / Beer"}
+{:name=>"Zima", :type=>"Wine / Beer"}
+{:name=>"Absolut Citron", :type=>"Base spirit"}
+{:name=>"Absolut Kurant", :type=>"Base spirit"}
+{:name=>"Absolut Mandrin", :type=>"Base spirit"}
+{:name=>"Absolut Peppar", :type=>"Base spirit"}
+{:name=>"Absolut Vodka", :type=>"Base spirit"}
+{:name=>"Aftershock", :type=>"Other spirit"}
+{:name=>"Amaretto", :type=>"Liqueur / Cordial"}
+{:name=>"Angostura bitters", :type=>"Flavoring / Syrup"}
+{:name=>"Applejack", :type=>"Other spirit"}
+{:name=>"Apricot brandy", :type=>"Other spirit"}
+{:name=>"Aquavit", :type=>"Other spirit"}
+{:name=>"Bacardi Limon", :type=>"Base spirit"}
+{:name=>"Banana liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Banana rum", :type=>"Other spirit"}
+{:name=>"Barenjager", :type=>"Liqueur / Cordial"}
+{:name=>"Becherovka", :type=>"Liqueur / Cordial"}
+{:name=>"Benedictine", :type=>"Liqueur / Cordial"}
+{:name=>"Black Sambuca", :type=>"Liqueur / Cordial"}
+{:name=>"Blavod vodka", :type=>"Base spirit"}
+{:name=>"Blended whiskey", :type=>"Base spirit"}
+{:name=>"Blue Curacao", :type=>"Liqueur / Cordial"}
+{:name=>"Brandy", :type=>"Base spirit"}
+{:name=>"Cachaca", :type=>"Other spirit"}
+{:name=>"Calvados", :type=>"Other spirit"}
+{:name=>"Canadian whisky", :type=>"Base spirit"}
+{:name=>"Cherry Heering", :type=>"Liqueur / Cordial"}
+{:name=>"Cherry liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Cherry vodka", :type=>"Base spirit"}
+{:name=>"Cinnamon schnapps", :type=>"Other spirit"}
+{:name=>"Citrus vodka", :type=>"Base spirit"}
+{:name=>"Coconut rum", :type=>"Other spirit"}
+{:name=>"Coffee liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Cognac", :type=>"Base spirit"}
+{:name=>"Cointreau", :type=>"Liqueur / Cordial"}
+{:name=>"Cranberry vodka", :type=>"Base spirit"}
+{:name=>"Creme de Cacao", :type=>"Liqueur / Cordial"}
+{:name=>"Creme de Cassis", :type=>"Liqueur / Cordial"}
+{:name=>"Crown Royal", :type=>"Base spirit"}
+{:name=>"Curacao", :type=>"Liqueur / Cordial"}
+{:name=>"Dark Creme de Cacao", :type=>"Liqueur / Cordial"}
+{:name=>"Drambuie", :type=>"Liqueur / Cordial"}
+{:name=>"Fernet Branca", :type=>"Other spirit"}
+{:name=>"Frangelico", :type=>"Liqueur / Cordial"}
+{:name=>"Galliano", :type=>"Liqueur / Cordial"}
+{:name=>"Genever", :type=>"Base spirit"}
+{:name=>"Gin", :type=>"Base spirit"}
+{:name=>"Gold tequila", :type=>"Base spirit"}
+{:name=>"Goldschlager", :type=>"Other spirit"}
+{:name=>"Grand Marnier", :type=>"Liqueur / Cordial"}
+{:name=>"Green Creme de Menthe", :type=>"Liqueur / Cordial"}
+{:name=>"Green Curacao", :type=>"Liqueur / Cordial"}
+{:name=>"Hot Damn", :type=>"Other spirit"}
+{:name=>"Irish whiskey", :type=>"Base spirit"}
+{:name=>"Jim Beam", :type=>"Base spirit"}
+{:name=>"Johnnie Walker", :type=>"Base spirit"}
+{:name=>"Jose Cuervo", :type=>"Base spirit"}
+{:name=>"J\u00E4germeister", :type=>"Liqueur / Cordial"}
+{:name=>"Kahlua", :type=>"Liqueur / Cordial"}
+{:name=>"Lakka", :type=>"Liqueur / Cordial"}
+{:name=>"Lemon gin", :type=>"Base spirit"}
+{:name=>"Lemon vodka", :type=>"Base spirit"}
+{:name=>"Licor 43", :type=>"Liqueur / Cordial"}
+{:name=>"Lime vodka", :type=>"Base spirit"}
+{:name=>"Limoncello", :type=>"Liqueur / Cordial"}
+{:name=>"Malibu rum", :type=>"Other spirit"}
+{:name=>"Mandarine Napoleon", :type=>"Liqueur / Cordial"}
+{:name=>"Maraschino liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Melon liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Melon vodka", :type=>"Base spirit"}
+{:name=>"Metaxa", :type=>"Other spirit"}
+{:name=>"Midori melon liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Orange bitters", :type=>"Flavoring / Syrup"}
+{:name=>"Orange Curacao", :type=>"Liqueur / Cordial"}
+{:name=>"Orange rum", :type=>"Other spirit"}
+{:name=>"Orange vodka", :type=>"Base spirit"}
+{:name=>"Ouzo", :type=>"Liqueur / Cordial"}
+{:name=>"Peach schnapps", :type=>"Other spirit"}
+{:name=>"Peach Vodka", :type=>"Base spirit"}
+{:name=>"Pernod", :type=>"Liqueur / Cordial"}
+{:name=>"Pimm's No. 1", :type=>"Other spirit"}
+{:name=>"Pineapple rum", :type=>"Other spirit"}
+{:name=>"Pineapple vodka", :type=>"Base spirit"}
+{:name=>"Pisang Ambon", :type=>"Liqueur / Cordial"}
+{:name=>"Raspberry vodka", :type=>"Base spirit"}
+{:name=>"RedRum", :type=>"Other spirit"}
+{:name=>"Rye whiskey", :type=>"Base spirit"}
+{:name=>"Sambuca", :type=>"Liqueur / Cordial"}
+{:name=>"Scotch", :type=>"Base spirit"}
+{:name=>"Seagram 7", :type=>"Base spirit"}
+{:name=>"Sloe gin", :type=>"Liqueur / Cordial"}
+{:name=>"St. Hallvard", :type=>"Liqueur / Cordial"}
+{:name=>"Strawberry schnapps", :type=>"Other spirit"}
+{:name=>"Strawberry vodka", :type=>"Base spirit"}
+{:name=>"Tequila", :type=>"Base spirit"}
+{:name=>"Tia maria", :type=>"Liqueur / Cordial"}
+{:name=>"Triple sec", :type=>"Liqueur / Cordial"}
+{:name=>"Tuaca", :type=>"Liqueur / Cordial"}
+{:name=>"Vanilla extract", :type=>"Flavoring / Syrup"}
+{:name=>"Vanilla vodka", :type=>"Base spirit"}
+{:name=>"Vodka", :type=>"Base spirit"}
+{:name=>"Whiskey", :type=>"Base spirit"}
+{:name=>"Whisky", :type=>"Base spirit"}
+{:name=>"White Creme de Menthe", :type=>"Liqueur / Cordial"}
+{:name=>"Yellow Chartreuse", :type=>"Liqueur / Cordial"}
+{:name=>"151 proof rum", :type=>"Other spirit"}
+{:name=>"Absinthe", :type=>"Liqueur / Cordial"}
+{:name=>"Anis", :type=>"Liqueur / Cordial"}
+{:name=>"Apple brandy", :type=>"Other spirit"}
+{:name=>"Everclear", :type=>"Other spirit"}
+{:name=>"Firewater", :type=>"Other spirit"}
+{:name=>"George Dickel", :type=>"Base spirit"}
+{:name=>"Green Chartreuse", :type=>"Liqueur / Cordial"}
+{:name=>"Ice 101", :type=>"Other spirit"}
+{:name=>"Jack Daniels", :type=>"Base spirit"}
+{:name=>"Kirschwasser", :type=>"Other spirit"}
+{:name=>"Pisco", :type=>"Other spirit"}
+{:name=>"Ricard", :type=>"Liqueur / Cordial"}
+{:name=>"Rumple Minze", :type=>"Other spirit"}
+{:name=>"Wild Spirit liqueur", :type=>"Other spirit"}
+{:name=>"Wild Turkey", :type=>"Base spirit"}
+{:name=>"Yukon Jack", :type=>"Liqueur / Cordial"}
+{:name=>"Apple cider", :type=>"Wine / Beer"}
+{:name=>"Apple schnapps", :type=>"Other spirit"}
+{:name=>"Beer", :type=>"Wine / Beer"}
+{:name=>"Bitters", :type=>"Flavoring / Syrup"}
+{:name=>"Blackberry brandy", :type=>"Other spirit"}
+{:name=>"Blackcurrant cordial", :type=>"Liqueur / Cordial"}
+{:name=>"Blackcurrant schnapps", :type=>"Other spirit"}
+{:name=>"Blueberry schnapps", :type=>"Other spirit"}
+{:name=>"Bourbon", :type=>"Base spirit"}
+{:name=>"Champagne", :type=>"Wine / Beer"}
+{:name=>"Chocolate liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Chocolate mint liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Cider", :type=>"Wine / Beer"}
+{:name=>"Creme de Banane", :type=>"Liqueur / Cordial"}
+{:name=>"Eggnog", :type=>"Liqueur / Cordial"}
+{:name=>"Ginger beer", :type=>"Mixer"}
+{:name=>"Grain alcohol", :type=>"Other spirit"}
+{:name=>"Grape schnapps", :type=>"Other spirit"}
+{:name=>"Grapefruit schnapps", :type=>"Other spirit"}
+{:name=>"Hazelnut liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Kiwi liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Lager", :type=>"Wine / Beer"}
+{:name=>"Lime liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Orange liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Pear liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Peppermint extract", :type=>"Flavoring / Syrup"}
+{:name=>"Peppermint schnapps", :type=>"Other spirit"}
+{:name=>"Port", :type=>"Wine / Beer"}
+{:name=>"Raspberry liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Red wine", :type=>"Wine / Beer"}
+{:name=>"Rum", :type=>"Base spirit"}
+{:name=>"Schnapps", :type=>"Other spirit"}
+{:name=>"Sherry", :type=>"Wine / Beer"}
+{:name=>"Sour apple liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Southern Comfort", :type=>"Liqueur / Cordial"}
+{:name=>"Sparkling white wine", :type=>"Wine / Beer"}
+{:name=>"Stout", :type=>"Wine / Beer"}
+{:name=>"Tennessee whiskey", :type=>"Base spirit"}
+{:name=>"Watermelon liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Whiskey liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"White wine", :type=>"Wine / Beer"}
+{:name=>"Wine", :type=>"Wine / Beer"}
+{:name=>"Ale", :type=>"Wine / Beer"}
+{:name=>"Almond flavoring", :type=>"Flavoring / Syrup"}
+{:name=>"Amer Picon", :type=>"Other / Unknown"}
+{:name=>"Anisette", :type=>"Liqueur / Cordial"}
+{:name=>"Apricot liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"A\u00F1ejo rum", :type=>"Base spirit"}
+{:name=>"Batida de Coco", :type=>"Liqueur / Cordial"}
+{:name=>"Black rum", :type=>"Base spirit"}
+{:name=>"Blackberry schnapps", :type=>"Other spirit"}
+{:name=>"Caramel liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Cherry brandy", :type=>"Other spirit"}
+{:name=>"Coconut liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Coffee brandy", :type=>"Other spirit"}
+{:name=>"Cranberry liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Creme de Almond", :type=>"Liqueur / Cordial"}
+{:name=>"Creme de Fraise des Bois", :type=>"Liqueur / Cordial"}
+{:name=>"Creme de Fraise", :type=>"Liqueur / Cordial"}
+{:name=>"Creme de Noyaux", :type=>"Liqueur / Cordial"}
+{:name=>"Dark rum", :type=>"Base spirit"}
+{:name=>"Erin Cream", :type=>"Liqueur / Cordial"}
+{:name=>"Forbidden Fruit", :type=>"Liqueur / Cordial"}
+{:name=>"Gold rum", :type=>"Base spirit"}
+{:name=>"Grappa", :type=>"Other spirit"}
+{:name=>"Irish Mist", :type=>"Liqueur / Cordial"}
+{:name=>"Kummel", :type=>"Liqueur / Cordial"}
+{:name=>"Lemon liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Lemon schnapps", :type=>"Other spirit"}
+{:name=>"Light rum", :type=>"Base spirit"}
+{:name=>"Lillet", :type=>"Wine / Beer"}
+{:name=>"Mezcal", :type=>"Other spirit"}
+{:name=>"Peach brandy", :type=>"Other spirit"}
+{:name=>"Peach liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Peanut liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Pear brandy", :type=>"Other spirit"}
+{:name=>"Peychaud bitters", :type=>"Flavoring / Syrup"}
+{:name=>"Pistachio liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Pi\u00F1a Colada", :type=>"Liqueur / Cordial"}
+{:name=>"Purple passion", :type=>"Other / Unknown"}
+{:name=>"Raki", :type=>"Liqueur / Cordial"}
+{:name=>"Raspberry cordial", :type=>"Liqueur / Cordial"}
+{:name=>"Raspberry schnapps", :type=>"Other spirit"}
+{:name=>"Rock and rye", :type=>"Liqueur / Cordial"}
+{:name=>"Root beer schnapps", :type=>"Other spirit"}
+{:name=>"Rum cream liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Sake", :type=>"Wine / Beer"}
+{:name=>"Spiced rum", :type=>"Base spirit"}
+{:name=>"Strawberry liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Strega", :type=>"Liqueur / Cordial"}
+{:name=>"Swedish Punsch", :type=>"Liqueur / Cordial"}
+{:name=>"Swiss Mocha Cream liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Tawny port", :type=>"Wine / Beer"}
+{:name=>"Tropical fruit schnapps", :type=>"Other spirit"}
+{:name=>"Vanilla liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Vanilla schnapps", :type=>"Other spirit"}
+{:name=>"Watermelon schnapps", :type=>"Other spirit"}
+{:name=>"White chocolate liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"White port", :type=>"Wine / Beer"}
+{:name=>"White rum", :type=>"Base spirit"}
+{:name=>"Wildberry schnapps", :type=>"Other spirit"}
+{:name=>"Advocaat", :type=>"Liqueur / Cordial"}
+{:name=>"Aliz\u00E9", :type=>"Liqueur / Cordial"}
+{:name=>"Amarula Cream", :type=>"Liqueur / Cordial"}
+{:name=>"Aperol", :type=>"Other / Unknown"}
+{:name=>"Apfelkorn", :type=>"Other spirit"}
+{:name=>"Bailey's irish cream", :type=>"Liqueur / Cordial"}
+{:name=>"Butterscotch schnapps", :type=>"Liqueur / Cordial"}
+{:name=>"Cactus Juice liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Campari", :type=>"Other spirit"}
+{:name=>"Chambord raspberry liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Charleston Follies", :type=>"Liqueur / Cordial"}
+{:name=>"Cheri Beri Pucker", :type=>"Other spirit"}
+{:name=>"Cinzano Orancio", :type=>"Wine / Beer"}
+{:name=>"Corona", :type=>"Wine / Beer"}
+{:name=>"Cynar", :type=>"Other / Unknown"}
+{:name=>"Dry Vermouth", :type=>"Wine / Beer"}
+{:name=>"Dubonnet Blanc", :type=>"Wine / Beer"}
+{:name=>"Dubonnet Rouge", :type=>"Wine / Beer"}
+{:name=>"Godiva liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Grape Pucker", :type=>"Other spirit"}
+{:name=>"Guinness stout", :type=>"Wine / Beer"}
+{:name=>"Hoopers Hooch", :type=>"Wine / Beer"}
+{:name=>"Hpnotiq", :type=>"Liqueur / Cordial"}
+{:name=>"Irish cream", :type=>"Liqueur / Cordial"}
+{:name=>"Key Largo schnapps", :type=>"Other spirit"}
+{:name=>"Mad Dog 20/20", :type=>"Wine / Beer"}
+{:name=>"Madeira", :type=>"Wine / Beer"}
+{:name=>"Malt liquor", :type=>"Wine / Beer"}
+{:name=>"Maui", :type=>"Other spirit"}
+{:name=>"Parfait d'Amour", :type=>"Liqueur / Cordial"}
+{:name=>"Passoa", :type=>"Liqueur / Cordial"}
+{:name=>"Peachtree schnapps", :type=>"Liqueur / Cordial"}
+{:name=>"Pineau des Charentes", :type=>"Wine / Beer"}
+{:name=>"Razzmatazz", :type=>"Liqueur / Cordial"}
+{:name=>"Safari", :type=>"Liqueur / Cordial"}
+{:name=>"Saurer apfel", :type=>"Other spirit"}
+{:name=>"Shochu", :type=>"Other spirit"}
+{:name=>"Sour Apple Pucker", :type=>"Other spirit"}
+{:name=>"Sweet Vermouth", :type=>"Wine / Beer"}
+{:name=>"Taboo", :type=>"Liqueur / Cordial"}
+{:name=>"Tequila Rose", :type=>"Liqueur / Cordial"}
+{:name=>"Thunderbird", :type=>"Wine / Beer"}
+{:name=>"Vermouth", :type=>"Wine / Beer"}
+{:name=>"West Coast Cooler", :type=>"Wine / Beer"}
+{:name=>"Zima", :type=>"Wine / Beer"}
+{:name=>"Absolut Citron", :type=>"Base spirit"}
+{:name=>"Absolut Kurant", :type=>"Base spirit"}
+{:name=>"Absolut Mandrin", :type=>"Base spirit"}
+{:name=>"Absolut Peppar", :type=>"Base spirit"}
+{:name=>"Absolut Vodka", :type=>"Base spirit"}
+{:name=>"Aftershock", :type=>"Other spirit"}
+{:name=>"Amaretto", :type=>"Liqueur / Cordial"}
+{:name=>"Angostura bitters", :type=>"Flavoring / Syrup"}
+{:name=>"Applejack", :type=>"Other spirit"}
+{:name=>"Apricot brandy", :type=>"Other spirit"}
+{:name=>"Aquavit", :type=>"Other spirit"}
+{:name=>"Bacardi Limon", :type=>"Base spirit"}
+{:name=>"Banana liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Banana rum", :type=>"Other spirit"}
+{:name=>"Barenjager", :type=>"Liqueur / Cordial"}
+{:name=>"Becherovka", :type=>"Liqueur / Cordial"}
+{:name=>"Benedictine", :type=>"Liqueur / Cordial"}
+{:name=>"Black Sambuca", :type=>"Liqueur / Cordial"}
+{:name=>"Blavod vodka", :type=>"Base spirit"}
+{:name=>"Blended whiskey", :type=>"Base spirit"}
+{:name=>"Blue Curacao", :type=>"Liqueur / Cordial"}
+{:name=>"Brandy", :type=>"Base spirit"}
+{:name=>"Cachaca", :type=>"Other spirit"}
+{:name=>"Calvados", :type=>"Other spirit"}
+{:name=>"Canadian whisky", :type=>"Base spirit"}
+{:name=>"Cherry Heering", :type=>"Liqueur / Cordial"}
+{:name=>"Cherry liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Cherry vodka", :type=>"Base spirit"}
+{:name=>"Cinnamon schnapps", :type=>"Other spirit"}
+{:name=>"Citrus vodka", :type=>"Base spirit"}
+{:name=>"Coconut rum", :type=>"Other spirit"}
+{:name=>"Coffee liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Cognac", :type=>"Base spirit"}
+{:name=>"Cointreau", :type=>"Liqueur / Cordial"}
+{:name=>"Cranberry vodka", :type=>"Base spirit"}
+{:name=>"Creme de Cacao", :type=>"Liqueur / Cordial"}
+{:name=>"Creme de Cassis", :type=>"Liqueur / Cordial"}
+{:name=>"Crown Royal", :type=>"Base spirit"}
+{:name=>"Curacao", :type=>"Liqueur / Cordial"}
+{:name=>"Dark Creme de Cacao", :type=>"Liqueur / Cordial"}
+{:name=>"Drambuie", :type=>"Liqueur / Cordial"}
+{:name=>"Fernet Branca", :type=>"Other spirit"}
+{:name=>"Frangelico", :type=>"Liqueur / Cordial"}
+{:name=>"Galliano", :type=>"Liqueur / Cordial"}
+{:name=>"Genever", :type=>"Base spirit"}
+{:name=>"Gin", :type=>"Base spirit"}
+{:name=>"Gold tequila", :type=>"Base spirit"}
+{:name=>"Goldschlager", :type=>"Other spirit"}
+{:name=>"Grand Marnier", :type=>"Liqueur / Cordial"}
+{:name=>"Green Creme de Menthe", :type=>"Liqueur / Cordial"}
+{:name=>"Green Curacao", :type=>"Liqueur / Cordial"}
+{:name=>"Hot Damn", :type=>"Other spirit"}
+{:name=>"Irish whiskey", :type=>"Base spirit"}
+{:name=>"Jim Beam", :type=>"Base spirit"}
+{:name=>"Johnnie Walker", :type=>"Base spirit"}
+{:name=>"Jose Cuervo", :type=>"Base spirit"}
+{:name=>"J\u00E4germeister", :type=>"Liqueur / Cordial"}
+{:name=>"Kahlua", :type=>"Liqueur / Cordial"}
+{:name=>"Lakka", :type=>"Liqueur / Cordial"}
+{:name=>"Lemon gin", :type=>"Base spirit"}
+{:name=>"Lemon vodka", :type=>"Base spirit"}
+{:name=>"Licor 43", :type=>"Liqueur / Cordial"}
+{:name=>"Lime vodka", :type=>"Base spirit"}
+{:name=>"Limoncello", :type=>"Liqueur / Cordial"}
+{:name=>"Malibu rum", :type=>"Other spirit"}
+{:name=>"Mandarine Napoleon", :type=>"Liqueur / Cordial"}
+{:name=>"Maraschino liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Melon liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Melon vodka", :type=>"Base spirit"}
+{:name=>"Metaxa", :type=>"Other spirit"}
+{:name=>"Midori melon liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Orange bitters", :type=>"Flavoring / Syrup"}
+{:name=>"Orange Curacao", :type=>"Liqueur / Cordial"}
+{:name=>"Orange rum", :type=>"Other spirit"}
+{:name=>"Orange vodka", :type=>"Base spirit"}
+{:name=>"Ouzo", :type=>"Liqueur / Cordial"}
+{:name=>"Peach schnapps", :type=>"Other spirit"}
+{:name=>"Peach Vodka", :type=>"Base spirit"}
+{:name=>"Pernod", :type=>"Liqueur / Cordial"}
+{:name=>"Pimm's No. 1", :type=>"Other spirit"}
+{:name=>"Pineapple rum", :type=>"Other spirit"}
+{:name=>"Pineapple vodka", :type=>"Base spirit"}
+{:name=>"Pisang Ambon", :type=>"Liqueur / Cordial"}
+{:name=>"Raspberry vodka", :type=>"Base spirit"}
+{:name=>"RedRum", :type=>"Other spirit"}
+{:name=>"Rye whiskey", :type=>"Base spirit"}
+{:name=>"Sambuca", :type=>"Liqueur / Cordial"}
+{:name=>"Scotch", :type=>"Base spirit"}
+{:name=>"Seagram 7", :type=>"Base spirit"}
+{:name=>"Sloe gin", :type=>"Liqueur / Cordial"}
+{:name=>"St. Hallvard", :type=>"Liqueur / Cordial"}
+{:name=>"Strawberry schnapps", :type=>"Other spirit"}
+{:name=>"Strawberry vodka", :type=>"Base spirit"}
+{:name=>"Tequila", :type=>"Base spirit"}
+{:name=>"Tia maria", :type=>"Liqueur / Cordial"}
+{:name=>"Triple sec", :type=>"Liqueur / Cordial"}
+{:name=>"Tuaca", :type=>"Liqueur / Cordial"}
+{:name=>"Vanilla extract", :type=>"Flavoring / Syrup"}
+{:name=>"Vanilla vodka", :type=>"Base spirit"}
+{:name=>"Vodka", :type=>"Base spirit"}
+{:name=>"Whiskey", :type=>"Base spirit"}
+{:name=>"Whisky", :type=>"Base spirit"}
+{:name=>"White Creme de Menthe", :type=>"Liqueur / Cordial"}
+{:name=>"Yellow Chartreuse", :type=>"Liqueur / Cordial"}
+{:name=>"151 proof rum", :type=>"Other spirit"}
+{:name=>"Absinthe", :type=>"Liqueur / Cordial"}
+{:name=>"Anis", :type=>"Liqueur / Cordial"}
+{:name=>"Apple brandy", :type=>"Other spirit"}
+{:name=>"Everclear", :type=>"Other spirit"}
+{:name=>"Firewater", :type=>"Other spirit"}
+{:name=>"George Dickel", :type=>"Base spirit"}
+{:name=>"Green Chartreuse", :type=>"Liqueur / Cordial"}
+{:name=>"Ice 101", :type=>"Other spirit"}
+{:name=>"Jack Daniels", :type=>"Base spirit"}
+{:name=>"Kirschwasser", :type=>"Other spirit"}
+{:name=>"Pisco", :type=>"Other spirit"}
+{:name=>"Ricard", :type=>"Liqueur / Cordial"}
+{:name=>"Rumple Minze", :type=>"Other spirit"}
+{:name=>"Wild Spirit liqueur", :type=>"Other spirit"}
+{:name=>"Wild Turkey", :type=>"Base spirit"}
+{:name=>"Yukon Jack", :type=>"Liqueur / Cordial"}
+{:name=>"Apple cider", :type=>"Wine / Beer"}
+{:name=>"Apple schnapps", :type=>"Other spirit"}
+{:name=>"Beer", :type=>"Wine / Beer"}
+{:name=>"Bitters", :type=>"Flavoring / Syrup"}
+{:name=>"Blackberry brandy", :type=>"Other spirit"}
+{:name=>"Blackcurrant cordial", :type=>"Liqueur / Cordial"}
+{:name=>"Blackcurrant schnapps", :type=>"Other spirit"}
+{:name=>"Blueberry schnapps", :type=>"Other spirit"}
+{:name=>"Bourbon", :type=>"Base spirit"}
+{:name=>"Champagne", :type=>"Wine / Beer"}
+{:name=>"Chocolate liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Chocolate mint liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Cider", :type=>"Wine / Beer"}
+{:name=>"Creme de Banane", :type=>"Liqueur / Cordial"}
+{:name=>"Eggnog", :type=>"Liqueur / Cordial"}
+{:name=>"Ginger beer", :type=>"Mixer"}
+{:name=>"Grain alcohol", :type=>"Other spirit"}
+{:name=>"Grape schnapps", :type=>"Other spirit"}
+{:name=>"Grapefruit schnapps", :type=>"Other spirit"}
+{:name=>"Hazelnut liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Kiwi liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Lager", :type=>"Wine / Beer"}
+{:name=>"Lime liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Orange liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Pear liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Peppermint extract", :type=>"Flavoring / Syrup"}
+{:name=>"Peppermint schnapps", :type=>"Other spirit"}
+{:name=>"Port", :type=>"Wine / Beer"}
+{:name=>"Raspberry liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Red wine", :type=>"Wine / Beer"}
+{:name=>"Rum", :type=>"Base spirit"}
+{:name=>"Schnapps", :type=>"Other spirit"}
+{:name=>"Sherry", :type=>"Wine / Beer"}
+{:name=>"Sour apple liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Southern Comfort", :type=>"Liqueur / Cordial"}
+{:name=>"Sparkling white wine", :type=>"Wine / Beer"}
+{:name=>"Stout", :type=>"Wine / Beer"}
+{:name=>"Tennessee whiskey", :type=>"Base spirit"}
+{:name=>"Watermelon liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Whiskey liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"White wine", :type=>"Wine / Beer"}
+{:name=>"Wine", :type=>"Wine / Beer"}
+{:name=>"Ale", :type=>"Wine / Beer"}
+{:name=>"Almond flavoring", :type=>"Flavoring / Syrup"}
+{:name=>"Amer Picon", :type=>"Other / Unknown"}
+{:name=>"Anisette", :type=>"Liqueur / Cordial"}
+{:name=>"Apricot liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"A\u00F1ejo rum", :type=>"Base spirit"}
+{:name=>"Batida de Coco", :type=>"Liqueur / Cordial"}
+{:name=>"Black rum", :type=>"Base spirit"}
+{:name=>"Blackberry schnapps", :type=>"Other spirit"}
+{:name=>"Caramel liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Cherry brandy", :type=>"Other spirit"}
+{:name=>"Coconut liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Coffee brandy", :type=>"Other spirit"}
+{:name=>"Cranberry liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Creme de Almond", :type=>"Liqueur / Cordial"}
+{:name=>"Creme de Fraise des Bois", :type=>"Liqueur / Cordial"}
+{:name=>"Creme de Fraise", :type=>"Liqueur / Cordial"}
+{:name=>"Creme de Noyaux", :type=>"Liqueur / Cordial"}
+{:name=>"Dark rum", :type=>"Base spirit"}
+{:name=>"Erin Cream", :type=>"Liqueur / Cordial"}
+{:name=>"Forbidden Fruit", :type=>"Liqueur / Cordial"}
+{:name=>"Gold rum", :type=>"Base spirit"}
+{:name=>"Grappa", :type=>"Other spirit"}
+{:name=>"Irish Mist", :type=>"Liqueur / Cordial"}
+{:name=>"Kummel", :type=>"Liqueur / Cordial"}
+{:name=>"Lemon liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Lemon schnapps", :type=>"Other spirit"}
+{:name=>"Light rum", :type=>"Base spirit"}
+{:name=>"Lillet", :type=>"Wine / Beer"}
+{:name=>"Mezcal", :type=>"Other spirit"}
+{:name=>"Peach brandy", :type=>"Other spirit"}
+{:name=>"Peach liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Peanut liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Pear brandy", :type=>"Other spirit"}
+{:name=>"Peychaud bitters", :type=>"Flavoring / Syrup"}
+{:name=>"Pistachio liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Pi\u00F1a Colada", :type=>"Liqueur / Cordial"}
+{:name=>"Purple passion", :type=>"Other / Unknown"}
+{:name=>"Raki", :type=>"Liqueur / Cordial"}
+{:name=>"Raspberry cordial", :type=>"Liqueur / Cordial"}
+{:name=>"Raspberry schnapps", :type=>"Other spirit"}
+{:name=>"Rock and rye", :type=>"Liqueur / Cordial"}
+{:name=>"Root beer schnapps", :type=>"Other spirit"}
+{:name=>"Rum cream liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Sake", :type=>"Wine / Beer"}
+{:name=>"Spiced rum", :type=>"Base spirit"}
+{:name=>"Strawberry liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Strega", :type=>"Liqueur / Cordial"}
+{:name=>"Swedish Punsch", :type=>"Liqueur / Cordial"}
+{:name=>"Swiss Mocha Cream liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Tawny port", :type=>"Wine / Beer"}
+{:name=>"Tropical fruit schnapps", :type=>"Other spirit"}
+{:name=>"Vanilla liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"Vanilla schnapps", :type=>"Other spirit"}
+{:name=>"Watermelon schnapps", :type=>"Other spirit"}
+{:name=>"White chocolate liqueur", :type=>"Liqueur / Cordial"}
+{:name=>"White port", :type=>"Wine / Beer"}
+{:name=>"White rum", :type=>"Base spirit"}
+{:name=>"Wildberry schnapps", :type=>"Other spirit"}
