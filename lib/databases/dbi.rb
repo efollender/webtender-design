@@ -61,11 +61,8 @@ module Bartender
     end
 
     def get_search_results(array_of_ingredient_ids)
-      search_for_string = "("
-      array_of_ingredient_ids.each do |i|
-        search_for_string << "#{}"
-      end
-      #TODO SQL RETURN ALL OF THE RECIPES THAT HAS ONE OF THOSE INGREDIENTS
+      recipes = @db.exec_params(%[SELECT * FROM recipes RETURNING *;])
+      binding.pry
     end
 
     def get_search_results(array_of_ingredient_ids)
@@ -77,13 +74,16 @@ module Bartender
       db_object #Returns an array of db result objects like this [[{keys and values},{},{}]]
     end
 
-    def build_recipe(data, ingredientsHashArray)
+    def build_recipe(name, directions, ingredientsHashArray)
       ingredients = []
       ingredientsHashArray.each do |ingredient|
         ingredients << Bartender.Ingredient.new(get_ingredient_id_by_name(ingredient.name), ingredient[name], ingredient[amount], ingredient[unit])
       end
-      recipe = Bartender::Recipe.new(data[name],ingredients, data[directions], data[imageurl]);
+      recipe = Bartender::Recipe.new(name, ingredients, directions);
       recipe 
+
+      # {:name=>vodkaDrink, :directions: "", ingredients:[{name: vodka, amount: 2, unit: "oz"}]}
+
     end
 
     def persist_ingredient(ingredient)
@@ -95,15 +95,12 @@ module Bartender
     end
 
     def persist_recipe(recipe)
-      binding.pry
       result = @db.exec_params(%q[
         INSERT INTO recipes (name, directions, imageurl)
         VALUES ($1, $2, $3)
         RETURNING *;
         ], [recipe.name, recipe.directions, recipe.imageurl])
-      binding.pry
       recipe.ingredients.each do |i|
-        binding.pry
         @db.exec_params(%q[
           INSERT INTO recipes_ingredients(recipe_id, ingredient_id, amount, unit)
           VALUES ($1, $2, $3, $4);
