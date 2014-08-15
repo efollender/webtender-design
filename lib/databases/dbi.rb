@@ -1,5 +1,5 @@
 require 'pg'
- 
+require_relative '../entities/parser.rb' 
 module Bartender
   class DBI
  
