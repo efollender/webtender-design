@@ -1,6 +1,6 @@
 require 'pg'
 require 'pry-byebug'
- 
+require_relative '../entities/parser.rb' 
 module Bartender
   class DBI
  
@@ -82,7 +82,7 @@ module Bartender
       ingredientsHashArray.each do |ingredient|
         ingredients << Bartender.Ingredient.new(get_ingredient_id_by_name(ingredient.name), ingredient[name], ingredient[amount], ingredient[unit])
       end
-      recipe = Bartender::Recipe.new(data[name],ingredients, data[direction], data[imageurl]);
+      recipe = Bartender::Recipe.new(data[name],ingredients, data[directions], data[imageurl]);
       recipe 
     end
 

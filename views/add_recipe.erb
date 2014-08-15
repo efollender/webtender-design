@@ -1,7 +1,7 @@
 <div class="row">
   <h3>ADD A NEW RECIPE</h3>
   <hr/>
-  <form id="addRecipe" class="form-container">
+  <form id="addRecipe" class="form-container" method="POST" action='/add_recipe'>
     <input name="recipe_title" type="text" placeholder="Enter recipe title"/>
     <ul class="form-group">
       <h5>INGREDIENTS</h5>
@@ -11,10 +11,10 @@
         <li>
           <div class="row collapse">
             <div class="large-1 columns">
-              <input type="text" name="amount" placeholder="amount" value="" />
+              <input type="text" class="amount" name="amount-1" placeholder="amount" value="" />
             </div>
             <div class="large-1 columns">
-              <select name="units" placeholder="units">
+              <select name="units-1" class="units" placeholder="units">
                 <option value="oz">oz</option>
                 <option value="tsp">tsp</option>
                 <option value="tbs">tbs</option>
@@ -25,13 +25,15 @@
             </div>
             <!-- ING AUTOCOMPLETE TITLE -->
             <div class="large-10 columns">
-              <input type="text" name="ingredient" placeholder="ingredient name"/>
+              <input type="text" id="autocomplete" class="ing-name" name="ingredient-1" placeholder="ingredient name"/>
             </div>
           <!-- END REPEATER -->
           </div>
         </li>
         <button class="r-btnAdd" id="addIngredient" type="button">Add Ingredient</button>
       </ul>
+      <input type="text" placeholder="Add an image URL" name="imageurl"/>
+      <textarea placeholder="Enter recipe instructions"></textarea>
     <input type="submit" class="button" value="Submit Recipe"/>
   </form>
 </div>
