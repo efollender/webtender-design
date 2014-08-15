@@ -1,4 +1,5 @@
 require 'pg'
+require 'pry-byebug'
  
 module Bartender
   class DBI
@@ -76,21 +77,37 @@ module Bartender
       db_object #Returns an array of db result objects like this [[{keys and values},{},{}]]
     end
 
-    def build_recipe(data)
-      recipe = Bartender::Recipe.new(data[name], data[ingredients], data[direction], data[imageurl]);
-      recipe
+    def build_recipe(data, ingredientsHashArray)
+      ingredients = []
+      ingredientsHashArray.each do |ingredient|
+        ingredients << Bartender.Ingredient.new(get_ingredient_id_by_name(ingredient.name), ingredient[name], ingredient[amount], ingredient[unit])
+      end
+      recipe = Bartender::Recipe.new(data[name],ingredients, data[direction], data[imageurl]);
+      recipe 
+    end
+
+    def persist_ingredient(ingredient)
+      @db.exec_params(%q[
+        INSERT INTO ingredients(name)
+        VALUES ($1);
+        ], [ingredient.name])
+      ingredient
     end
 
     def persist_recipe(recipe)
+      binding.pry
       result = @db.exec_params(%q[
         INSERT INTO recipes (name, directions, imageurl)
-        VALUES ($1, $2, $3, $4);
+        VALUES ($1, $2, $3)
+        RETURNING *;
         ], [recipe.name, recipe.directions, recipe.imageurl])
+      binding.pry
       recipe.ingredients.each do |i|
+        binding.pry
         @db.exec_params(%q[
           INSERT INTO recipes_ingredients(recipe_id, ingredient_id, amount, unit)
           VALUES ($1, $2, $3, $4);
-          ], [result.first[:id], i.id, i.amount, i.unit])i
+          ], [result.first["id"], i.id, i.amount, i.unit])
       end
     end
 
