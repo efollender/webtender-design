@@ -39,12 +39,15 @@ post '/add_recipe' do
   redirect to '/'
 end
 
-get '/brianteststuff' do
-  erb :brianteststuff
-end
+# get '/brianteststuff' do
+#   erb :brianteststuff
+# end
 
-post '/brianteststuff' do
-  recipe = Bartender::Recipe.new("Vodka Cranberry",[[name:"vodka",amount:"2",unit:"oz"],[name:"cranberry juice",amount:"2",unit:"oz"]] ,"Mix Vodka and Cranberry straight or over ice.","http://leesliquorlv.com/site/wp-content/uploads/2012/09/Vodka-Cran.jpg")
-  Bartender.dbi.persist_recipe(recipe)
-  erb :brianteststuff
-end
+# post '/brianteststuff' do
+
+#   vodka = Bartender.dbi.persist_ingredient(Bartender::Ingredient.new(1, "vodka", 2, "oz"))
+#   cranberry = Bartender.dbi.persist_ingredient(Bartender::Ingredient.new(1, "cranberry juice", 2, "oz"))
+#   recipe = Bartender::Recipe.new("Vodka Cranberry",[vodka,cranberry] ,"Mix Vodka and Cranberry straight or over ice.","http://leesliquorlv.com/site/wp-content/uploads/2012/09/Vodka-Cran.jpg")
+#   Bartender.dbi.persist_recipe(recipe)
+#   erb :brianteststuff
+# end
