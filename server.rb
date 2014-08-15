@@ -2,7 +2,7 @@
 require 'sinatra'
 require "sinatra/json"
 require 'rack-flash'
-#require_relative 'lib/bartender_app.rb'
+require_relative 'lib/bartender_app.rb'
 
 
 set :bind, '0.0.0.0' # Vagrant fix
@@ -37,4 +37,14 @@ post '/add_recipe' do
 
   end
   redirect to '/'
+end
+
+get '/brianteststuff' do
+  erb :brianteststuff
+end
+
+post '/brianteststuff' do
+  recipe = Bartender::Recipe.new("Vodka Cranberry",[[name:"vodka",amount:"2",unit:"oz"],[name:"cranberry juice",amount:"2",unit:"oz"]] ,"Mix Vodka and Cranberry straight or over ice.","http://leesliquorlv.com/site/wp-content/uploads/2012/09/Vodka-Cran.jpg")
+  Bartender.dbi.persist_recipe(recipe)
+  erb :brianteststuff
 end
