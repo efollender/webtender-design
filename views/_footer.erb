@@ -4,6 +4,7 @@
       <script type="text/javascript">$(document).foundation();</script>
       <script type="text/javascript" src="/zmultiselect/zurb5-multiselect.js"></script>
       <script src="/ItemSlider/js/jquery.catslider.js"></script>
+      <script type="text/javascript" src="http://designshack.net/tutorialexamples/html5-autocomplete-suggestions/js/jquery.autocomplete.min.js"></script>
      
       <script>
         $(function() {
@@ -12,38 +13,25 @@
 
         });
       </script>
+      <%= "<script src=\"/#{@home}\"></script>" if @home %>
       <script type="text/javascript">
-      $("#ingredients").zmultiselect({
-            live: "#live",
-            placeholder: "Select your ingredients",
-            filter: true,
-            filterPlaceholder: 'Search by name',
-            filterResult: true,
-            filterResultText: "Showing",
-            selectedText: ['Selected','of']
-        });
-      $("#common").zmultiselect({
-            live: "#submit",
-            placeholder: "Common ingredients",
-            filter: true,
-            filterPlaceholder: 'Search by name',
-            filterResult: true,
-            filterResultText: "Showing",
-            selectedText: ['Selected','of']
-        });
+      
       var newLi = $("#addRecipe ul li").clone();
+      // var newRecipe = function(name,ingredients){
+      //   this.name = name,
+      //   this.ingredients = 
+      // }
+      var count = 1;
       $("#addIngredient").click(function(e){
+        count++;
         var appendLi = newLi.clone();
+        $(appendLi).find(".amount").attr('name', 'amount-' + count);
+        $(appendLi).find(".units").attr('name', 'units-' + count);
+        $(appendLi).find(".ing-name").attr('name', 'ingredient-' + count);
         $("#addIngredient").before(appendLi);
         e.preventDefault();
       });
-      var ingredients = [
-        <% @ingredients.each do |x| %>
-          {
-            name: <%= x.name %>
-          },
-        <% end %>
-      ]
+      
     </script>
 
   </body>
